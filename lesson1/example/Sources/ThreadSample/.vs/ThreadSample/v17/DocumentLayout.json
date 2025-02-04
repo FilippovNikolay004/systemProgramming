@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Step\\3 course\\systemProgramming\\lesson1\\example\\Sources\\ThreadSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B07D6F2B-1D4C-4D02-8AFA-C4FCEB2E4A88}|ThreadSample2\\ThreadSample2.csproj|d:\\step\\3 course\\systemprogramming\\lesson1\\example\\sources\\threadsample\\threadsample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B07D6F2B-1D4C-4D02-8AFA-C4FCEB2E4A88}|ThreadSample2\\ThreadSample2.csproj|solutionrelative:threadsample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8F621E-4973-4EAF-906F-4DF5704648E4}|ThreadSample\\ThreadSample.csproj|D:\\Step\\3 course\\systemProgramming\\lesson1\\example\\Sources\\ThreadSample\\threadsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8F621E-4973-4EAF-906F-4DF5704648E4}|ThreadSample\\ThreadSample.csproj|solutionrelative:threadsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\systemProgramming\\lesson1\\example\\Sources\\ThreadSample\\ThreadSample2\\Program.cs",
+              "RelativeDocumentMoniker": "ThreadSample2\\Program.cs",
+              "ToolTip": "D:\\Step\\3 course\\systemProgramming\\lesson1\\example\\Sources\\ThreadSample\\ThreadSample2\\Program.cs",
+              "RelativeToolTip": "ThreadSample2\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:12:09.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\systemProgramming\\lesson1\\example\\Sources\\ThreadSample\\ThreadSample\\Program.cs",
+              "RelativeDocumentMoniker": "ThreadSample\\Program.cs",
+              "ToolTip": "D:\\Step\\3 course\\systemProgramming\\lesson1\\example\\Sources\\ThreadSample\\ThreadSample\\Program.cs",
+              "RelativeToolTip": "ThreadSample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:44:35.032Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

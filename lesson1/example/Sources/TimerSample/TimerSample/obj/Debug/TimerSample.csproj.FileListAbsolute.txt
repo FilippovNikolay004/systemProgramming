@@ -1,0 +1,12 @@
+C:\Users\krisc\OneDrive\Desktop\Sources\TimerSample\TimerSample\bin\Debug\TimerSample.exe
+C:\Users\krisc\OneDrive\Desktop\Sources\TimerSample\TimerSample\bin\Debug\TimerSample.pdb
+C:\Users\krisc\OneDrive\Desktop\Sources\TimerSample\TimerSample\obj\Debug\TimerSample.csproj.AssemblyReference.cache
+C:\Users\krisc\OneDrive\Desktop\Sources\TimerSample\TimerSample\obj\Debug\TimerSample.csproj.CoreCompileInputs.cache
+C:\Users\krisc\OneDrive\Desktop\Sources\TimerSample\TimerSample\obj\Debug\TimerSample.exe
+C:\Users\krisc\OneDrive\Desktop\Sources\TimerSample\TimerSample\obj\Debug\TimerSample.pdb
+D:\Step\3 course\systemProgramming\lesson1\example\Sources\TimerSample\TimerSample\bin\Debug\TimerSample.exe
+D:\Step\3 course\systemProgramming\lesson1\example\Sources\TimerSample\TimerSample\bin\Debug\TimerSample.pdb
+D:\Step\3 course\systemProgramming\lesson1\example\Sources\TimerSample\TimerSample\obj\Debug\TimerSample.csproj.AssemblyReference.cache
+D:\Step\3 course\systemProgramming\lesson1\example\Sources\TimerSample\TimerSample\obj\Debug\TimerSample.csproj.CoreCompileInputs.cache
+D:\Step\3 course\systemProgramming\lesson1\example\Sources\TimerSample\TimerSample\obj\Debug\TimerSample.exe
+D:\Step\3 course\systemProgramming\lesson1\example\Sources\TimerSample\TimerSample\obj\Debug\TimerSample.pdb

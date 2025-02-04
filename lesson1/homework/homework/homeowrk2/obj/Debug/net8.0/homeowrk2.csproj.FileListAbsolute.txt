@@ -1,0 +1,14 @@
+D:\Step\3 course\systemProgramming\lesson1\homework\homework\homeowrk2\bin\Debug\net8.0\homeowrk2.exe
+D:\Step\3 course\systemProgramming\lesson1\homework\homework\homeowrk2\bin\Debug\net8.0\homeowrk2.deps.json
+D:\Step\3 course\systemProgramming\lesson1\homework\homework\homeowrk2\bin\Debug\net8.0\homeowrk2.runtimeconfig.json
+D:\Step\3 course\systemProgramming\lesson1\homework\homework\homeowrk2\bin\Debug\net8.0\homeowrk2.dll
+D:\Step\3 course\systemProgramming\lesson1\homework\homework\homeowrk2\bin\Debug\net8.0\homeowrk2.pdb
+D:\Step\3 course\systemProgramming\lesson1\homework\homework\homeowrk2\obj\Debug\net8.0\homeowrk2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Step\3 course\systemProgramming\lesson1\homework\homework\homeowrk2\obj\Debug\net8.0\homeowrk2.AssemblyInfoInputs.cache
+D:\Step\3 course\systemProgramming\lesson1\homework\homework\homeowrk2\obj\Debug\net8.0\homeowrk2.AssemblyInfo.cs
+D:\Step\3 course\systemProgramming\lesson1\homework\homework\homeowrk2\obj\Debug\net8.0\homeowrk2.csproj.CoreCompileInputs.cache
+D:\Step\3 course\systemProgramming\lesson1\homework\homework\homeowrk2\obj\Debug\net8.0\homeowrk2.dll
+D:\Step\3 course\systemProgramming\lesson1\homework\homework\homeowrk2\obj\Debug\net8.0\refint\homeowrk2.dll
+D:\Step\3 course\systemProgramming\lesson1\homework\homework\homeowrk2\obj\Debug\net8.0\homeowrk2.pdb
+D:\Step\3 course\systemProgramming\lesson1\homework\homework\homeowrk2\obj\Debug\net8.0\homeowrk2.genruntimeconfig.cache
+D:\Step\3 course\systemProgramming\lesson1\homework\homework\homeowrk2\obj\Debug\net8.0\ref\homeowrk2.dll

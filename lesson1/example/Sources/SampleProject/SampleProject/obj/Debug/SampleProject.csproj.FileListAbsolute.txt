@@ -1,0 +1,6 @@
+D:\Step\3 course\systemProgramming\lesson1\example\Sources\SampleProject\SampleProject\bin\Debug\SampleProject.exe
+D:\Step\3 course\systemProgramming\lesson1\example\Sources\SampleProject\SampleProject\bin\Debug\SampleProject.pdb
+D:\Step\3 course\systemProgramming\lesson1\example\Sources\SampleProject\SampleProject\obj\Debug\SampleProject.csproj.AssemblyReference.cache
+D:\Step\3 course\systemProgramming\lesson1\example\Sources\SampleProject\SampleProject\obj\Debug\SampleProject.csproj.CoreCompileInputs.cache
+D:\Step\3 course\systemProgramming\lesson1\example\Sources\SampleProject\SampleProject\obj\Debug\SampleProject.exe
+D:\Step\3 course\systemProgramming\lesson1\example\Sources\SampleProject\SampleProject\obj\Debug\SampleProject.pdb
