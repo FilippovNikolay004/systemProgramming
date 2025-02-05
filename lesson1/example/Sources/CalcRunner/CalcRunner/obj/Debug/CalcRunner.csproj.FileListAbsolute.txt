@@ -1,0 +1,9 @@
+D:\Step\3 course\systemProgramming\lesson1\example\Sources\CalcRunner\CalcRunner\bin\Debug\CalcRunner.exe
+D:\Step\3 course\systemProgramming\lesson1\example\Sources\CalcRunner\CalcRunner\bin\Debug\CalcRunner.pdb
+D:\Step\3 course\systemProgramming\lesson1\example\Sources\CalcRunner\CalcRunner\obj\Debug\CalcRunner.csproj.AssemblyReference.cache
+D:\Step\3 course\systemProgramming\lesson1\example\Sources\CalcRunner\CalcRunner\obj\Debug\CalcRunner.CalcRunner.resources
+D:\Step\3 course\systemProgramming\lesson1\example\Sources\CalcRunner\CalcRunner\obj\Debug\CalcRunner.Properties.Resources.resources
+D:\Step\3 course\systemProgramming\lesson1\example\Sources\CalcRunner\CalcRunner\obj\Debug\CalcRunner.csproj.GenerateResource.cache
+D:\Step\3 course\systemProgramming\lesson1\example\Sources\CalcRunner\CalcRunner\obj\Debug\CalcRunner.csproj.CoreCompileInputs.cache
+D:\Step\3 course\systemProgramming\lesson1\example\Sources\CalcRunner\CalcRunner\obj\Debug\CalcRunner.exe
+D:\Step\3 course\systemProgramming\lesson1\example\Sources\CalcRunner\CalcRunner\obj\Debug\CalcRunner.pdb

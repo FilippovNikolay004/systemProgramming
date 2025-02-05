@@ -9,7 +9,7 @@ namespace ListAllProcesses
     {
         static void Main(string[] args)
         {
-            //устанавливаем заголовок коннсоли
+            //устанавливаем заголовок консоли
             Console.Title = "Список процессов";
             //изменяем размер буфера консоли и окна на необходимый нам
             Console.WindowWidth = 40;
@@ -17,10 +17,22 @@ namespace ListAllProcesses
             //получаем список процессов
             Process[] processes = Process.GetProcesses();
             //выводим заголовок
-            Console.WriteLine("  {0,-28}{1,-10}","Имя процесса:","PID:");
+            Console.WriteLine("Имя процесса:","PID:");
             //для каждого процесса выводим имя и PID
             foreach (Process p in processes)
-                Console.Write("  {0,-28}{1,-10}",p.ProcessName, p.Id);
+                Console.WriteLine(p.ProcessName + " " + p.Id);
+
+
+            Console.WriteLine("Введите PID процесса для завершения:");
+            string pidToKill = Console.ReadLine();
+
+            Process[] processesToKill = Process.GetProcessesByName(pidToKill);
+
+            // Завершаем процесс
+            foreach (Process process in processesToKill) {
+                process.Kill();
+                Console.WriteLine($"Процесс {process.ProcessName} с PID {process.Id} был завершен.");
+            }
         }
     }
 }

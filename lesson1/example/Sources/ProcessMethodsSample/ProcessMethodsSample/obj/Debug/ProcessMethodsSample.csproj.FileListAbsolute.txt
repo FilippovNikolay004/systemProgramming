@@ -1,0 +1,6 @@
+D:\Step\3 course\systemProgramming\lesson1\example\Sources\ProcessMethodsSample\ProcessMethodsSample\bin\Debug\ProcessMethodsSample.exe
+D:\Step\3 course\systemProgramming\lesson1\example\Sources\ProcessMethodsSample\ProcessMethodsSample\bin\Debug\ProcessMethodsSample.pdb
+D:\Step\3 course\systemProgramming\lesson1\example\Sources\ProcessMethodsSample\ProcessMethodsSample\obj\Debug\ProcessMethodsSample.csproj.AssemblyReference.cache
+D:\Step\3 course\systemProgramming\lesson1\example\Sources\ProcessMethodsSample\ProcessMethodsSample\obj\Debug\ProcessMethodsSample.csproj.CoreCompileInputs.cache
+D:\Step\3 course\systemProgramming\lesson1\example\Sources\ProcessMethodsSample\ProcessMethodsSample\obj\Debug\ProcessMethodsSample.exe
+D:\Step\3 course\systemProgramming\lesson1\example\Sources\ProcessMethodsSample\ProcessMethodsSample\obj\Debug\ProcessMethodsSample.pdb

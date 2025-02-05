@@ -9,16 +9,16 @@ namespace ProcessMethodsSample
     {
         static void Main(string[] args)
         {
-            Console.Title = "Прмер запуска процесса";
+            Console.Title = "Пример запуска процесса";
             //Объявляем объект класса Process
             Process proc = new Process();
             //устанавливаем имя файла, который будет запущен в рамках процесса
             proc.StartInfo.FileName = "notepad.exe";
-            //запускаем проуцесс
+            //запускаем процесс
             proc.Start();
             //выводим имя процесса
             Console.WriteLine("Запущен процесс: " + proc.ProcessName);
-            //ожидаем ззакрытия процесса
+            //ожидаем закрытия процесса
             proc.WaitForExit();
             //выводим код, с которым завершился процесс
             Console.WriteLine("Процесс завершился с кодом: " + proc.ExitCode);

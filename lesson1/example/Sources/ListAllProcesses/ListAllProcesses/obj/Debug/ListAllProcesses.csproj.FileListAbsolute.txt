@@ -1,0 +1,6 @@
+D:\Step\3 course\systemProgramming\lesson1\example\Sources\ListAllProcesses\ListAllProcesses\bin\Debug\ListAllProcesses.exe
+D:\Step\3 course\systemProgramming\lesson1\example\Sources\ListAllProcesses\ListAllProcesses\bin\Debug\ListAllProcesses.pdb
+D:\Step\3 course\systemProgramming\lesson1\example\Sources\ListAllProcesses\ListAllProcesses\obj\Debug\ListAllProcesses.csproj.AssemblyReference.cache
+D:\Step\3 course\systemProgramming\lesson1\example\Sources\ListAllProcesses\ListAllProcesses\obj\Debug\ListAllProcesses.csproj.CoreCompileInputs.cache
+D:\Step\3 course\systemProgramming\lesson1\example\Sources\ListAllProcesses\ListAllProcesses\obj\Debug\ListAllProcesses.exe
+D:\Step\3 course\systemProgramming\lesson1\example\Sources\ListAllProcesses\ListAllProcesses\obj\Debug\ListAllProcesses.pdb
