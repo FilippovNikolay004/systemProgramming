@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SlideShow.Form1.resources
+obj\Debug\SlideShow.Properties.Resources.resources
+obj\Debug\SlideShow.csproj.GenerateResource.Cache
+bin\Debug\SlideShow.exe
+bin\Debug\SlideShow.pdb
+obj\Debug\SlideShow.exe
+obj\Debug\SlideShow.pdb

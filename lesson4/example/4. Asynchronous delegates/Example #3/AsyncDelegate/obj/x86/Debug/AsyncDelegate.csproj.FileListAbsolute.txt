@@ -1,0 +1,19 @@
+D:\Programming\Системное программирование .NET\Examples\AsyncDelegate\AsyncDelegate\bin\Debug\AsyncDelegate.exe
+D:\Programming\Системное программирование .NET\Examples\AsyncDelegate\AsyncDelegate\bin\Debug\AsyncDelegate.pdb
+D:\Programming\Системное программирование .NET\Examples\AsyncDelegate\AsyncDelegate\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programming\Системное программирование .NET\Examples\AsyncDelegate\AsyncDelegate\obj\x86\Debug\AsyncDelegate.exe
+D:\Programming\Системное программирование .NET\Examples\AsyncDelegate\AsyncDelegate\obj\x86\Debug\AsyncDelegate.pdb
+D:\Programming\Системное программирование .NET\Examples\5. Asynchronous delegates\Example #3\AsyncDelegate\obj\x86\Debug\AsyncDelegate.exe
+D:\Programming\Системное программирование .NET\Examples\5. Asynchronous delegates\Example #3\AsyncDelegate\obj\x86\Debug\AsyncDelegate.pdb
+D:\БПУ-1211\Системное программирование .NET\Примеры\5. Asynchronous delegates\Example #3\AsyncDelegate\obj\x86\Debug\AsyncDelegate.exe
+D:\БПУ-1211\Системное программирование .NET\Примеры\5. Asynchronous delegates\Example #3\AsyncDelegate\obj\x86\Debug\AsyncDelegate.pdb
+D:\Programming\Системное программирование .NET\Примеры\5. Asynchronous delegates\Example #3\AsyncDelegate\obj\x86\Debug\AsyncDelegate.exe
+D:\Programming\Системное программирование .NET\Примеры\5. Asynchronous delegates\Example #3\AsyncDelegate\obj\x86\Debug\AsyncDelegate.pdb
+D:\Programming\Системное программирование .NET\Примеры\5. Asynchronous delegates\Example #3\AsyncDelegate\bin\Debug\AsyncDelegate.exe
+D:\Programming\Системное программирование .NET\Примеры\5. Asynchronous delegates\Example #3\AsyncDelegate\bin\Debug\AsyncDelegate.pdb
+D:\Programming\Системное программирование .NET\Примеры\5. Asynchronous delegates\Example #3\AsyncDelegate\obj\x86\Debug\AsyncDelegate.csprojResolveAssemblyReference.cache
+D:\IT Step\Системное программирование .NET\Примеры\4. Asynchronous delegates\Example #3\AsyncDelegate\obj\x86\Debug\AsyncDelegate.exe
+D:\IT Step\Системное программирование .NET\Примеры\4. Asynchronous delegates\Example #3\AsyncDelegate\obj\x86\Debug\AsyncDelegate.pdb
+D:\IT Step\Системное программирование .NET\Примеры\4. Asynchronous delegates\Example #3\AsyncDelegate\bin\Debug\AsyncDelegate.exe
+D:\IT Step\Системное программирование .NET\Примеры\4. Asynchronous delegates\Example #3\AsyncDelegate\bin\Debug\AsyncDelegate.pdb
+D:\IT Step\Системное программирование .NET\Примеры\4. Asynchronous delegates\Example #3\AsyncDelegate\obj\x86\Debug\AsyncDelegate.csprojResolveAssemblyReference.cache

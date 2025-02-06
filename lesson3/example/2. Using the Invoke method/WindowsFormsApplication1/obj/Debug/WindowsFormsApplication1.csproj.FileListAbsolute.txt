@@ -1,0 +1,50 @@
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\polyanskiy\Desktop\Примеры\7. Использование метода Invoke\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\polyanskiy\Desktop\Примеры\7. Использование метода Invoke\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\polyanskiy\Desktop\Примеры\7. Использование метода Invoke\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\polyanskiy\Desktop\Примеры\7. Использование метода Invoke\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\polyanskiy\Desktop\Примеры\7. Использование метода Invoke\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\polyanskiy\Desktop\Примеры\7. Использование метода Invoke\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\polyanskiy\Desktop\Примеры\7. Использование метода Invoke\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Учебный процесс\Системное программирование .NET\Примеры\6. Использование метода Invoke\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Учебный процесс\Системное программирование .NET\Примеры\6. Использование метода Invoke\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Учебный процесс\Системное программирование .NET\Примеры\6. Использование метода Invoke\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Учебный процесс\Системное программирование .NET\Примеры\6. Использование метода Invoke\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Учебный процесс\Системное программирование .NET\Примеры\6. Использование метода Invoke\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Учебный процесс\Системное программирование .NET\Примеры\6. Использование метода Invoke\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Учебный процесс\Системное программирование .NET\Примеры\6. Использование метода Invoke\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Учебный процесс\Системное программирование .NET\Примеры\3. Использование метода Invoke\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Учебный процесс\Системное программирование .NET\Примеры\3. Использование метода Invoke\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Учебный процесс\Системное программирование .NET\Примеры\3. Использование метода Invoke\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Учебный процесс\Системное программирование .NET\Примеры\3. Использование метода Invoke\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Учебный процесс\Системное программирование .NET\Примеры\3. Использование метода Invoke\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Учебный процесс\Системное программирование .NET\Примеры\3. Использование метода Invoke\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Учебный процесс\Системное программирование .NET\Примеры\3. Использование метода Invoke\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Учебный процесс\Системное программирование .NET\Примеры\3. Использование метода Invoke\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\СПУ-1111\Системное программирование .NET\Примеры\3. Использование метода Invoke\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\СПУ-1111\Системное программирование .NET\Примеры\3. Использование метода Invoke\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Programming\Системное программирование .NET\Examples\3. Using the Invoke method\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Programming\Системное программирование .NET\Examples\3. Using the Invoke method\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Programming\Системное программирование .NET\Примеры\3. Using the Invoke method\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Programming\Системное программирование .NET\Примеры\3. Using the Invoke method\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Programming\Системное программирование .NET\Примеры\3. Using the Invoke method\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Programming\Системное программирование .NET\Примеры\3. Using the Invoke method\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Programming\Системное программирование .NET\Примеры\3. Using the Invoke method\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Programming\Системное программирование .NET\Примеры\3. Using the Invoke method\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Programming\Системное программирование .NET\Примеры\3. Using the Invoke method\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Programming\Системное программирование .NET\Примеры\3. Using the Invoke method\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\IT Step\Системное программирование .NET\Примеры\2. Using the Invoke method\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\IT Step\Системное программирование .NET\Примеры\2. Using the Invoke method\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\IT Step\Системное программирование .NET\Примеры\2. Using the Invoke method\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\IT Step\Системное программирование .NET\Примеры\2. Using the Invoke method\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\IT Step\Системное программирование .NET\Примеры\2. Using the Invoke method\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\IT Step\Системное программирование .NET\Примеры\2. Using the Invoke method\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\IT Step\Системное программирование .NET\Примеры\2. Using the Invoke method\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\IT Step\Системное программирование .NET\Примеры\2. Using the Invoke method\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

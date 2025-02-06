@@ -1,0 +1,20 @@
+D:\Programming\Системное программирование .NET\Examples\5. Asynchronous delegates\Example #7\TimerTest\bin\Debug\TimerTest.exe
+D:\Programming\Системное программирование .NET\Examples\5. Asynchronous delegates\Example #7\TimerTest\bin\Debug\TimerTest.pdb
+D:\Programming\Системное программирование .NET\Examples\5. Asynchronous delegates\Example #7\TimerTest\obj\Debug\ResolveAssemblyReference.cache
+D:\Programming\Системное программирование .NET\Examples\5. Asynchronous delegates\Example #7\TimerTest\obj\Debug\TimerTest.exe
+D:\Programming\Системное программирование .NET\Examples\5. Asynchronous delegates\Example #7\TimerTest\obj\Debug\TimerTest.pdb
+D:\БПУ-1211\Системное программирование .NET\Примеры\5. Asynchronous delegates\Example #7\TimerTest\obj\Debug\TimerTest.exe
+D:\БПУ-1211\Системное программирование .NET\Примеры\5. Asynchronous delegates\Example #7\TimerTest\obj\Debug\TimerTest.pdb
+D:\БПУ-1211\Системное программирование .NET\Примеры\5. Asynchronous delegates\Example #7\TimerTest\bin\Debug\TimerTest.exe
+D:\БПУ-1211\Системное программирование .NET\Примеры\5. Asynchronous delegates\Example #7\TimerTest\bin\Debug\TimerTest.pdb
+D:\БПУ-1211\Системное программирование .NET\Примеры\5. Asynchronous delegates\Example #7\TimerTest\obj\Debug\TimerTest.csprojResolveAssemblyReference.cache
+D:\Programming\Системное программирование .NET\Примеры\5. Asynchronous delegates\Example #7\TimerTest\obj\Debug\TimerTest.exe
+D:\Programming\Системное программирование .NET\Примеры\5. Asynchronous delegates\Example #7\TimerTest\obj\Debug\TimerTest.pdb
+D:\Programming\Системное программирование .NET\Примеры\5. Asynchronous delegates\Example #7\TimerTest\bin\Debug\TimerTest.exe
+D:\Programming\Системное программирование .NET\Примеры\5. Asynchronous delegates\Example #7\TimerTest\bin\Debug\TimerTest.pdb
+D:\Programming\Системное программирование .NET\Примеры\5. Asynchronous delegates\Example #7\TimerTest\obj\Debug\TimerTest.csprojResolveAssemblyReference.cache
+D:\IT Step\Системное программирование .NET\Примеры\4. Asynchronous delegates\Example #7\TimerTest\obj\Debug\TimerTest.exe
+D:\IT Step\Системное программирование .NET\Примеры\4. Asynchronous delegates\Example #7\TimerTest\obj\Debug\TimerTest.pdb
+D:\IT Step\Системное программирование .NET\Примеры\4. Asynchronous delegates\Example #7\TimerTest\bin\Debug\TimerTest.exe
+D:\IT Step\Системное программирование .NET\Примеры\4. Asynchronous delegates\Example #7\TimerTest\bin\Debug\TimerTest.pdb
+D:\IT Step\Системное программирование .NET\Примеры\4. Asynchronous delegates\Example #7\TimerTest\obj\Debug\TimerTest.csprojResolveAssemblyReference.cache

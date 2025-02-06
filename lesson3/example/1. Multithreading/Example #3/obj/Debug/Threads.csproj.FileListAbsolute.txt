@@ -1,0 +1,44 @@
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Пример на многопоточность\obj\Debug\Threads.exe
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Пример на многопоточность\obj\Debug\Threads.pdb
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Пример на многопоточность\bin\Debug\Threads.exe
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Пример на многопоточность\bin\Debug\Threads.pdb
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Пример на многопоточность\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Системное программирование\Примеры\Пример №1 на многопоточность\obj\Debug\Threads.exe
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Системное программирование\Примеры\Пример №1 на многопоточность\obj\Debug\Threads.pdb
+C:\Учебный процесс\C#\Системное программирование .NET\Примеры\6. Пример №1 на многопоточность\obj\Debug\Threads.exe
+C:\Учебный процесс\C#\Системное программирование .NET\Примеры\6. Пример №1 на многопоточность\obj\Debug\Threads.pdb
+C:\Users\Виталий\Music\Системное программирование .NET\Примеры\6. Пример №1 на многопоточность\obj\Debug\Threads.exe
+C:\Users\Виталий\Music\Системное программирование .NET\Примеры\6. Пример №1 на многопоточность\obj\Debug\Threads.pdb
+C:\Users\Виталий\Music\Системное программирование .NET\Примеры\6. Пример №1 на многопоточность\bin\Debug\Threads.exe
+C:\Users\Виталий\Music\Системное программирование .NET\Примеры\6. Пример №1 на многопоточность\bin\Debug\Threads.pdb
+C:\Users\Виталий\Music\Системное программирование .NET\Примеры\6. Пример №1 на многопоточность\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\polyanskiy\Desktop\Примеры\3. Пример №2 на многопоточность\obj\Debug\Threads.exe
+C:\Users\polyanskiy\Desktop\Примеры\3. Пример №2 на многопоточность\obj\Debug\Threads.pdb
+C:\Users\polyanskiy\Desktop\Примеры\3. Пример №2 на многопоточность\bin\Debug\Threads.exe
+C:\Users\polyanskiy\Desktop\Примеры\3. Пример №2 на многопоточность\bin\Debug\Threads.pdb
+C:\Users\polyanskiy\Desktop\Примеры\3. Пример №2 на многопоточность\obj\Debug\ResolveAssemblyReference.cache
+C:\Учебный процесс\Системное программирование .NET\Примеры\3. Пример №2 на многопоточность\obj\Debug\Threads.exe
+C:\Учебный процесс\Системное программирование .NET\Примеры\3. Пример №2 на многопоточность\obj\Debug\Threads.pdb
+C:\Учебный процесс\Системное программирование .NET\Примеры\3. Пример №2 на многопоточность\bin\Debug\Threads.exe
+C:\Учебный процесс\Системное программирование .NET\Примеры\3. Пример №2 на многопоточность\bin\Debug\Threads.pdb
+C:\Учебный процесс\Системное программирование .NET\Примеры\3. Пример №2 на многопоточность\obj\Debug\Threads.csprojResolveAssemblyReference.cache
+C:\СПУ-1111\Системное программирование .NET\Примеры\2. Многопоточность\Пример №2\obj\Debug\Threads.exe
+C:\СПУ-1111\Системное программирование .NET\Примеры\2. Многопоточность\Пример №2\obj\Debug\Threads.pdb
+D:\Programming\Системное программирование .NET\Примеры\2. Multithreading\Example #3\obj\Debug\Threads.exe
+D:\Programming\Системное программирование .NET\Примеры\2. Multithreading\Example #3\obj\Debug\Threads.pdb
+D:\Programming\Системное программирование .NET\Примеры\2. Multithreading\Example #3\bin\Debug\Threads.exe
+D:\Programming\Системное программирование .NET\Примеры\2. Multithreading\Example #3\bin\Debug\Threads.pdb
+D:\Programming\Системное программирование .NET\Примеры\2. Multithreading\Example #3\obj\Debug\Threads.csprojResolveAssemblyReference.cache
+D:\IT Step\Системное программирование .NET\Примеры\1. Multithreading\Example #3\obj\Debug\Threads.exe
+D:\IT Step\Системное программирование .NET\Примеры\1. Multithreading\Example #3\obj\Debug\Threads.pdb
+D:\IT Step\Системное программирование .NET\Примеры\1. Multithreading\Example #3\bin\Debug\Threads.exe
+D:\IT Step\Системное программирование .NET\Примеры\1. Multithreading\Example #3\bin\Debug\Threads.pdb
+D:\IT Step\Системное программирование .NET\Примеры\1. Multithreading\Example #3\obj\Debug\Threads.csprojResolveAssemblyReference.cache
+C:\Users\polyanskiy\Desktop\Системное программирование .NET\Примеры\1. Multithreading\Example #3\obj\Debug\Threads.exe
+C:\Users\polyanskiy\Desktop\Системное программирование .NET\Примеры\1. Multithreading\Example #3\obj\Debug\Threads.pdb
+D:\Step\3 course\systemProgramming\lesson3\example\1. Multithreading\Example #3\bin\Debug\Threads.exe
+D:\Step\3 course\systemProgramming\lesson3\example\1. Multithreading\Example #3\bin\Debug\Threads.pdb
+D:\Step\3 course\systemProgramming\lesson3\example\1. Multithreading\Example #3\obj\Debug\Threads.csproj.AssemblyReference.cache
+D:\Step\3 course\systemProgramming\lesson3\example\1. Multithreading\Example #3\obj\Debug\Threads.csproj.CoreCompileInputs.cache
+D:\Step\3 course\systemProgramming\lesson3\example\1. Multithreading\Example #3\obj\Debug\Threads.exe
+D:\Step\3 course\systemProgramming\lesson3\example\1. Multithreading\Example #3\obj\Debug\Threads.pdb

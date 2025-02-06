@@ -1,0 +1,6 @@
+C:\Users\Vitaliy\Desktop\Threads\bin\Debug\Threads.exe
+C:\Users\Vitaliy\Desktop\Threads\bin\Debug\Threads.pdb
+C:\Users\Vitaliy\Desktop\Threads\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vitaliy\Desktop\Threads\obj\Debug\CSharpApplication.Threads.Ico.ico
+C:\Users\Vitaliy\Desktop\Threads\obj\Debug\Threads.exe
+C:\Users\Vitaliy\Desktop\Threads\obj\Debug\Threads.pdb

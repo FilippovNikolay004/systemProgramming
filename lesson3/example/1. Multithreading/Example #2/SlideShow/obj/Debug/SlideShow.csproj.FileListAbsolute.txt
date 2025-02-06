@@ -1,0 +1,110 @@
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Потоки\SlideShow\bin\Debug\SlideShow.exe
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Потоки\SlideShow\bin\Debug\SlideShow.pdb
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Потоки\SlideShow\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Потоки\SlideShow\obj\Debug\SlideShow.Form1.resources
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Потоки\SlideShow\obj\Debug\SlideShow.Properties.Resources.resources
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Потоки\SlideShow\obj\Debug\SlideShow.csproj.GenerateResource.Cache
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Потоки\SlideShow\obj\Debug\SlideShow.exe
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Потоки\SlideShow\obj\Debug\SlideShow.pdb
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Системное программирование\Потоки\SlideShow\obj\Debug\SlideShow.exe
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Системное программирование\Потоки\SlideShow\obj\Debug\SlideShow.pdb
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Системное программирование\Потоки\SlideShow\bin\Debug\SlideShow.exe
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Системное программирование\Потоки\SlideShow\bin\Debug\SlideShow.pdb
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Системное программирование\Потоки\SlideShow\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Системное программирование\Потоки\SlideShow\obj\Debug\SlideShow.Form1.resources
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Системное программирование\Потоки\SlideShow\obj\Debug\SlideShow.Properties.Resources.resources
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Системное программирование\Потоки\SlideShow\obj\Debug\SlideShow.csproj.GenerateResource.Cache
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Системное программирование\Примеры\Потоки\SlideShow\obj\Debug\SlideShow.exe
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Системное программирование\Примеры\Потоки\SlideShow\obj\Debug\SlideShow.pdb
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Системное программирование\Примеры\Потоки\SlideShow\bin\Debug\SlideShow.exe
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Системное программирование\Примеры\Потоки\SlideShow\bin\Debug\SlideShow.pdb
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Системное программирование\Примеры\Потоки\SlideShow\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Системное программирование\Примеры\Потоки\SlideShow\obj\Debug\SlideShow.Form1.resources
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Системное программирование\Примеры\Потоки\SlideShow\obj\Debug\SlideShow.Properties.Resources.resources
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Системное программирование\Примеры\Потоки\SlideShow\obj\Debug\SlideShow.csproj.GenerateResource.Cache
+C:\Учебный процесс\C#\Системное программирование .NET\Примеры\7. Пример №2 на многопоточность\SlideShow\obj\Debug\SlideShow.exe
+C:\Учебный процесс\C#\Системное программирование .NET\Примеры\7. Пример №2 на многопоточность\SlideShow\obj\Debug\SlideShow.pdb
+C:\Users\Виталий\Music\Системное программирование .NET\Примеры\7. Пример №2 на многопоточность\SlideShow\obj\Debug\SlideShow.exe
+C:\Users\Виталий\Music\Системное программирование .NET\Примеры\7. Пример №2 на многопоточность\SlideShow\obj\Debug\SlideShow.pdb
+C:\Users\Виталий\Music\Системное программирование .NET\Примеры\7. Пример №2 на многопоточность\SlideShow\bin\Debug\SlideShow.exe
+C:\Users\Виталий\Music\Системное программирование .NET\Примеры\7. Пример №2 на многопоточность\SlideShow\bin\Debug\SlideShow.pdb
+C:\Users\Виталий\Music\Системное программирование .NET\Примеры\7. Пример №2 на многопоточность\SlideShow\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Виталий\Music\Системное программирование .NET\Примеры\7. Пример №2 на многопоточность\SlideShow\obj\Debug\SlideShow.Form1.resources
+C:\Users\Виталий\Music\Системное программирование .NET\Примеры\7. Пример №2 на многопоточность\SlideShow\obj\Debug\SlideShow.Properties.Resources.resources
+C:\Users\Виталий\Music\Системное программирование .NET\Примеры\7. Пример №2 на многопоточность\SlideShow\obj\Debug\SlideShow.csproj.GenerateResource.Cache
+C:\Users\polyanskiy\Desktop\Примеры\2. Пример №1 на многопоточность\SlideShow\obj\Debug\SlideShow.exe
+C:\Users\polyanskiy\Desktop\Примеры\2. Пример №1 на многопоточность\SlideShow\obj\Debug\SlideShow.pdb
+C:\Users\polyanskiy\Desktop\Примеры\2. Пример №1 на многопоточность\SlideShow\bin\Debug\SlideShow.exe
+C:\Users\polyanskiy\Desktop\Примеры\2. Пример №1 на многопоточность\SlideShow\bin\Debug\SlideShow.pdb
+C:\Users\polyanskiy\Desktop\Примеры\2. Пример №1 на многопоточность\SlideShow\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\polyanskiy\Desktop\Примеры\2. Пример №1 на многопоточность\SlideShow\obj\Debug\SlideShow.Form1.resources
+C:\Users\polyanskiy\Desktop\Примеры\2. Пример №1 на многопоточность\SlideShow\obj\Debug\SlideShow.Properties.Resources.resources
+C:\Учебный процесс\Системное программирование .NET\Примеры\2. Пример №1 на многопоточность\SlideShow\obj\Debug\SlideShow.exe
+C:\Учебный процесс\Системное программирование .NET\Примеры\2. Пример №1 на многопоточность\SlideShow\obj\Debug\SlideShow.pdb
+C:\Учебный процесс\Системное программирование .NET\Примеры\2. Пример №1 на многопоточность\SlideShow\bin\Debug\SlideShow.exe
+C:\Учебный процесс\Системное программирование .NET\Примеры\2. Пример №1 на многопоточность\SlideShow\bin\Debug\SlideShow.pdb
+C:\Учебный процесс\Системное программирование .NET\Примеры\2. Пример №1 на многопоточность\SlideShow\obj\Debug\SlideShow.Form1.resources
+C:\Учебный процесс\Системное программирование .NET\Примеры\2. Пример №1 на многопоточность\SlideShow\obj\Debug\SlideShow.Properties.Resources.resources
+C:\Учебный процесс\Системное программирование .NET\Примеры\2. Пример №1 на многопоточность\SlideShow\bin\Debug\SlideShow.XML
+C:\Учебный процесс\Системное программирование .NET\Примеры\2. Пример №1 на многопоточность\SlideShow\obj\Debug\SlideShow.csproj.GenerateResource.Cache
+C:\Учебный процесс\Системное программирование .NET\Примеры\2. Многопоточность\Пример №1\SlideShow\bin\Debug\SlideShow.XML
+C:\Учебный процесс\Системное программирование .NET\Примеры\2. Многопоточность\Пример №1\SlideShow\obj\Debug\SlideShow.exe
+C:\Учебный процесс\Системное программирование .NET\Примеры\2. Многопоточность\Пример №1\SlideShow\obj\Debug\SlideShow.pdb
+C:\Учебный процесс\Системное программирование .NET\Примеры\2. Многопоточность\Пример №1\SlideShow\bin\Debug\SlideShow.exe
+C:\Учебный процесс\Системное программирование .NET\Примеры\2. Многопоточность\Пример №1\SlideShow\bin\Debug\SlideShow.pdb
+C:\Учебный процесс\Системное программирование .NET\Примеры\2. Многопоточность\Пример №1\SlideShow\obj\Debug\SlideShow.csprojResolveAssemblyReference.cache
+C:\Учебный процесс\Системное программирование .NET\Примеры\2. Многопоточность\Пример №1\SlideShow\obj\Debug\SlideShow.Form1.resources
+C:\Учебный процесс\Системное программирование .NET\Примеры\2. Многопоточность\Пример №1\SlideShow\obj\Debug\SlideShow.Properties.Resources.resources
+C:\Учебный процесс\Системное программирование .NET\Примеры\2. Многопоточность\Пример №1\SlideShow\obj\Debug\SlideShow.csproj.GenerateResource.Cache
+C:\СПУ-1111\Системное программирование .NET\Примеры\2. Многопоточность\Пример №1\SlideShow\bin\Debug\SlideShow.XML
+C:\СПУ-1111\Системное программирование .NET\Примеры\2. Многопоточность\Пример №1\SlideShow\obj\Debug\SlideShow.exe
+C:\СПУ-1111\Системное программирование .NET\Примеры\2. Многопоточность\Пример №1\SlideShow\obj\Debug\SlideShow.pdb
+C:\СПУ-1111\Системное программирование .NET\Примеры\2. Многопоточность\Пример №1\SlideShow\bin\Debug\SlideShow.exe
+C:\СПУ-1111\Системное программирование .NET\Примеры\2. Многопоточность\Пример №1\SlideShow\bin\Debug\SlideShow.pdb
+C:\СПУ-1111\Системное программирование .NET\Примеры\2. Многопоточность\Пример №1\SlideShow\obj\Debug\SlideShow.csprojResolveAssemblyReference.cache
+C:\СПУ-1111\Системное программирование .NET\Примеры\2. Многопоточность\Пример №1\SlideShow\obj\Debug\SlideShow.Form1.resources
+C:\СПУ-1111\Системное программирование .NET\Примеры\2. Многопоточность\Пример №1\SlideShow\obj\Debug\SlideShow.Properties.Resources.resources
+C:\СПУ-1111\Системное программирование .NET\Примеры\2. Многопоточность\Пример №1\SlideShow\obj\Debug\SlideShow.csproj.GenerateResource.Cache
+D:\Programming\Системное программирование .NET\Примеры\2. Многопоточность\Пример №1\SlideShow\bin\Debug\SlideShow.XML
+D:\Programming\Системное программирование .NET\Примеры\2. Многопоточность\Пример №1\SlideShow\obj\Debug\SlideShow.exe
+D:\Programming\Системное программирование .NET\Примеры\2. Многопоточность\Пример №1\SlideShow\obj\Debug\SlideShow.pdb
+D:\Programming\Системное программирование .NET\Примеры\2. Многопоточность\Пример №1\SlideShow\bin\Debug\SlideShow.exe
+D:\Programming\Системное программирование .NET\Примеры\2. Многопоточность\Пример №1\SlideShow\bin\Debug\SlideShow.pdb
+D:\Programming\Системное программирование .NET\Примеры\2. Многопоточность\Пример №1\SlideShow\obj\Debug\ResolveAssemblyReference.cache
+D:\Programming\Системное программирование .NET\Примеры\2. Многопоточность\Пример №1\SlideShow\obj\Debug\SlideShow.Form1.resources
+D:\Programming\Системное программирование .NET\Примеры\2. Многопоточность\Пример №1\SlideShow\obj\Debug\SlideShow.Properties.Resources.resources
+D:\Programming\Системное программирование .NET\Examples\2. Multithreading\Example #2\SlideShow\bin\Debug\SlideShow.XML
+D:\Programming\Системное программирование .NET\Examples\2. Multithreading\Example #2\SlideShow\obj\Debug\SlideShow.exe
+D:\Programming\Системное программирование .NET\Examples\2. Multithreading\Example #2\SlideShow\obj\Debug\SlideShow.pdb
+D:\Programming\Системное программирование .NET\Examples\2. Multithreading\Example #2\SlideShow\bin\Debug\SlideShow.exe
+D:\Programming\Системное программирование .NET\Examples\2. Multithreading\Example #2\SlideShow\bin\Debug\SlideShow.pdb
+D:\Programming\Системное программирование .NET\Examples\2. Multithreading\Example #2\SlideShow\obj\Debug\ResolveAssemblyReference.cache
+D:\Programming\Системное программирование .NET\Examples\2. Multithreading\Example #2\SlideShow\obj\Debug\SlideShow.Form1.resources
+D:\Programming\Системное программирование .NET\Examples\2. Multithreading\Example #2\SlideShow\obj\Debug\SlideShow.Properties.Resources.resources
+D:\Programming\Системное программирование .NET\Примеры\2. Multithreading\Example #2\SlideShow\bin\Debug\SlideShow.XML
+D:\Programming\Системное программирование .NET\Примеры\2. Multithreading\Example #2\SlideShow\obj\Debug\SlideShow.exe
+D:\Programming\Системное программирование .NET\Примеры\2. Multithreading\Example #2\SlideShow\obj\Debug\SlideShow.pdb
+D:\Programming\Системное программирование .NET\Примеры\2. Multithreading\Example #2\SlideShow\bin\Debug\SlideShow.exe
+D:\Programming\Системное программирование .NET\Примеры\2. Multithreading\Example #2\SlideShow\bin\Debug\SlideShow.pdb
+D:\Programming\Системное программирование .NET\Примеры\2. Multithreading\Example #2\SlideShow\obj\Debug\SlideShow.csprojResolveAssemblyReference.cache
+D:\Programming\Системное программирование .NET\Примеры\2. Multithreading\Example #2\SlideShow\obj\Debug\SlideShow.Form1.resources
+D:\Programming\Системное программирование .NET\Примеры\2. Multithreading\Example #2\SlideShow\obj\Debug\SlideShow.Properties.Resources.resources
+D:\Programming\Системное программирование .NET\Примеры\2. Multithreading\Example #2\SlideShow\obj\Debug\SlideShow.csproj.GenerateResource.Cache
+D:\IT Step\Системное программирование .NET\Примеры\1. Multithreading\Example #2\SlideShow\bin\Debug\SlideShow.XML
+D:\IT Step\Системное программирование .NET\Примеры\1. Multithreading\Example #2\SlideShow\obj\Debug\SlideShow.exe
+D:\IT Step\Системное программирование .NET\Примеры\1. Multithreading\Example #2\SlideShow\obj\Debug\SlideShow.pdb
+D:\IT Step\Системное программирование .NET\Примеры\1. Multithreading\Example #2\SlideShow\bin\Debug\SlideShow.exe
+D:\IT Step\Системное программирование .NET\Примеры\1. Multithreading\Example #2\SlideShow\bin\Debug\SlideShow.pdb
+D:\IT Step\Системное программирование .NET\Примеры\1. Multithreading\Example #2\SlideShow\obj\Debug\SlideShow.csprojResolveAssemblyReference.cache
+D:\IT Step\Системное программирование .NET\Примеры\1. Multithreading\Example #2\SlideShow\obj\Debug\SlideShow.Form1.resources
+D:\IT Step\Системное программирование .NET\Примеры\1. Multithreading\Example #2\SlideShow\obj\Debug\SlideShow.Properties.Resources.resources
+D:\IT Step\Системное программирование .NET\Примеры\1. Multithreading\Example #2\SlideShow\obj\Debug\SlideShow.csproj.GenerateResource.Cache
+C:\Users\polyanskiy\Desktop\Системное программирование .NET\Примеры\1. Multithreading\Example #2\SlideShow\bin\Debug\SlideShow.XML
+C:\Users\polyanskiy\Desktop\Системное программирование .NET\Примеры\1. Multithreading\Example #2\SlideShow\obj\Debug\SlideShow.exe
+C:\Users\polyanskiy\Desktop\Системное программирование .NET\Примеры\1. Multithreading\Example #2\SlideShow\obj\Debug\SlideShow.pdb
+C:\Users\polyanskiy\Desktop\Системное программирование .NET\Примеры\1. Multithreading\Example #2\SlideShow\bin\Debug\SlideShow.exe
+C:\Users\polyanskiy\Desktop\Системное программирование .NET\Примеры\1. Multithreading\Example #2\SlideShow\bin\Debug\SlideShow.pdb
+C:\Users\polyanskiy\Desktop\Системное программирование .NET\Примеры\1. Multithreading\Example #2\SlideShow\obj\Debug\SlideShow.csprojResolveAssemblyReference.cache
+C:\Users\polyanskiy\Desktop\Системное программирование .NET\Примеры\1. Multithreading\Example #2\SlideShow\obj\Debug\SlideShow.Form1.resources
+C:\Users\polyanskiy\Desktop\Системное программирование .NET\Примеры\1. Multithreading\Example #2\SlideShow\obj\Debug\SlideShow.Properties.Resources.resources
+C:\Users\polyanskiy\Desktop\Системное программирование .NET\Примеры\1. Multithreading\Example #2\SlideShow\obj\Debug\SlideShow.csproj.GenerateResource.Cache

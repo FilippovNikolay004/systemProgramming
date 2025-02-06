@@ -1,0 +1,20 @@
+D:\Programming\Системное программирование .NET\Examples\Multithreading\Multithreading\bin\Debug\Multithreading.exe
+D:\Programming\Системное программирование .NET\Examples\Multithreading\Multithreading\bin\Debug\Multithreading.pdb
+D:\Programming\Системное программирование .NET\Examples\Multithreading\Multithreading\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programming\Системное программирование .NET\Examples\Multithreading\Multithreading\obj\x86\Debug\Multithreading.exe
+D:\Programming\Системное программирование .NET\Examples\Multithreading\Multithreading\obj\x86\Debug\Multithreading.pdb
+D:\БПУ-1211\Системное программирование .NET\Примеры\2. Multithreading\Example #1\Multithreading\obj\x86\Debug\Multithreading.exe
+D:\БПУ-1211\Системное программирование .NET\Примеры\2. Multithreading\Example #1\Multithreading\obj\x86\Debug\Multithreading.pdb
+D:\БПУ-1211\Системное программирование .NET\Примеры\2. Multithreading\Example #1\Multithreading\bin\Debug\Multithreading.exe
+D:\БПУ-1211\Системное программирование .NET\Примеры\2. Multithreading\Example #1\Multithreading\bin\Debug\Multithreading.pdb
+D:\БПУ-1211\Системное программирование .NET\Примеры\2. Multithreading\Example #1\Multithreading\obj\x86\Debug\Multithreading.csprojResolveAssemblyReference.cache
+D:\Programming\Системное программирование .NET\Примеры\2. Multithreading\Example #1\Multithreading\obj\x86\Debug\Multithreading.exe
+D:\Programming\Системное программирование .NET\Примеры\2. Multithreading\Example #1\Multithreading\obj\x86\Debug\Multithreading.pdb
+D:\Programming\Системное программирование .NET\Примеры\2. Multithreading\Example #1\Multithreading\bin\Debug\Multithreading.exe
+D:\Programming\Системное программирование .NET\Примеры\2. Multithreading\Example #1\Multithreading\bin\Debug\Multithreading.pdb
+D:\Programming\Системное программирование .NET\Примеры\2. Multithreading\Example #1\Multithreading\obj\x86\Debug\Multithreading.csprojResolveAssemblyReference.cache
+D:\IT Step\Системное программирование .NET\Примеры\1. Multithreading\Example #1\Multithreading\obj\x86\Debug\Multithreading.exe
+D:\IT Step\Системное программирование .NET\Примеры\1. Multithreading\Example #1\Multithreading\obj\x86\Debug\Multithreading.pdb
+D:\IT Step\Системное программирование .NET\Примеры\1. Multithreading\Example #1\Multithreading\bin\Debug\Multithreading.exe
+D:\IT Step\Системное программирование .NET\Примеры\1. Multithreading\Example #1\Multithreading\bin\Debug\Multithreading.pdb
+D:\IT Step\Системное программирование .NET\Примеры\1. Multithreading\Example #1\Multithreading\obj\x86\Debug\Multithreading.csprojResolveAssemblyReference.cache
