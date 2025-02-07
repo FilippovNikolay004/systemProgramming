@@ -1,0 +1,6 @@
+C:\Users\krisc\source\repos\ConsoleApp1\FileAsync\bin\Debug\FileAsync.exe.config
+C:\Users\krisc\source\repos\ConsoleApp1\FileAsync\bin\Debug\FileAsync.exe
+C:\Users\krisc\source\repos\ConsoleApp1\FileAsync\bin\Debug\FileAsync.pdb
+C:\Users\krisc\source\repos\ConsoleApp1\FileAsync\obj\Debug\FileAsync.csproj.CoreCompileInputs.cache
+C:\Users\krisc\source\repos\ConsoleApp1\FileAsync\obj\Debug\FileAsync.exe
+C:\Users\krisc\source\repos\ConsoleApp1\FileAsync\obj\Debug\FileAsync.pdb

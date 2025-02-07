@@ -1,0 +1,6 @@
+C:\Users\krisc\source\repos\ConsoleApp1\FactAsyncRez\bin\Debug\FactAsyncRez.exe.config
+C:\Users\krisc\source\repos\ConsoleApp1\FactAsyncRez\bin\Debug\FactAsyncRez.exe
+C:\Users\krisc\source\repos\ConsoleApp1\FactAsyncRez\bin\Debug\FactAsyncRez.pdb
+C:\Users\krisc\source\repos\ConsoleApp1\FactAsyncRez\obj\Debug\FactAsyncRez.csproj.CoreCompileInputs.cache
+C:\Users\krisc\source\repos\ConsoleApp1\FactAsyncRez\obj\Debug\FactAsyncRez.exe
+C:\Users\krisc\source\repos\ConsoleApp1\FactAsyncRez\obj\Debug\FactAsyncRez.pdb

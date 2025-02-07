@@ -1,0 +1,22 @@
+C:\Users\Виталий\Desktop\FactorialAsync\Task.WhenAll\bin\Debug\Task.WhenAll.exe.config
+C:\Users\Виталий\Desktop\FactorialAsync\Task.WhenAll\bin\Debug\Task.WhenAll.exe
+C:\Users\Виталий\Desktop\FactorialAsync\Task.WhenAll\bin\Debug\Task.WhenAll.pdb
+C:\Users\Виталий\Desktop\FactorialAsync\Task.WhenAll\obj\Debug\6. Task.WhenAll.csprojResolveAssemblyReference.cache
+C:\Users\Виталий\Desktop\FactorialAsync\Task.WhenAll\obj\Debug\Task.WhenAll.exe
+C:\Users\Виталий\Desktop\FactorialAsync\Task.WhenAll\obj\Debug\Task.WhenAll.pdb
+D:\IT Step\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\Task.WhenAll\bin\Debug\Task.WhenAll.exe.config
+D:\IT Step\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\Task.WhenAll\obj\Debug\Task.WhenAll.exe
+D:\IT Step\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\Task.WhenAll\obj\Debug\Task.WhenAll.pdb
+D:\IT Step\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\Task.WhenAll\bin\Debug\Task.WhenAll.exe
+D:\IT Step\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\Task.WhenAll\bin\Debug\Task.WhenAll.pdb
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\Task.WhenAll\bin\Debug\Task.WhenAll.exe.config
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\Task.WhenAll\bin\Debug\Task.WhenAll.exe
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\Task.WhenAll\bin\Debug\Task.WhenAll.pdb
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\Task.WhenAll\obj\Debug\6. Task.WhenAll.csproj.CoreCompileInputs.cache
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\Task.WhenAll\obj\Debug\Task.WhenAll.exe
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\Task.WhenAll\obj\Debug\Task.WhenAll.pdb
+D:\КА ШАГ\Системное программирование\Примеры\7. Asynchronous programming\FactorialAsync\Task.WhenAll\bin\Debug\Task.WhenAll.exe.config
+D:\КА ШАГ\Системное программирование\Примеры\7. Asynchronous programming\FactorialAsync\Task.WhenAll\bin\Debug\Task.WhenAll.exe
+D:\КА ШАГ\Системное программирование\Примеры\7. Asynchronous programming\FactorialAsync\Task.WhenAll\bin\Debug\Task.WhenAll.pdb
+D:\КА ШАГ\Системное программирование\Примеры\7. Asynchronous programming\FactorialAsync\Task.WhenAll\obj\Debug\Task.WhenAll.exe
+D:\КА ШАГ\Системное программирование\Примеры\7. Asynchronous programming\FactorialAsync\Task.WhenAll\obj\Debug\Task.WhenAll.pdb

@@ -1,0 +1,6 @@
+C:\Users\krisc\source\repos\ConsoleApp1\Сonsis\bin\Debug\Сonsis.exe.config
+C:\Users\krisc\source\repos\ConsoleApp1\Сonsis\bin\Debug\Сonsis.exe
+C:\Users\krisc\source\repos\ConsoleApp1\Сonsis\bin\Debug\Сonsis.pdb
+C:\Users\krisc\source\repos\ConsoleApp1\Сonsis\obj\Debug\Сonsis.csproj.CoreCompileInputs.cache
+C:\Users\krisc\source\repos\ConsoleApp1\Сonsis\obj\Debug\Сonsis.exe
+C:\Users\krisc\source\repos\ConsoleApp1\Сonsis\obj\Debug\Сonsis.pdb

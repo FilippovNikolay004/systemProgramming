@@ -1,0 +1,9 @@
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\Using the synchronization context\bin\Debug\Using the synchronization context.exe.config
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\Using the synchronization context\bin\Debug\Using the synchronization context.exe
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\Using the synchronization context\bin\Debug\Using the synchronization context.pdb
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\Using the synchronization context\obj\Debug\Using_the_synchronization_context.Form1.resources
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\Using the synchronization context\obj\Debug\Using_the_synchronization_context.Properties.Resources.resources
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\Using the synchronization context\obj\Debug\9. Using the synchronization context.csproj.GenerateResource.Cache
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\Using the synchronization context\obj\Debug\9. Using the synchronization context.csproj.CoreCompileInputs.cache
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\Using the synchronization context\obj\Debug\Using the synchronization context.exe
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\Using the synchronization context\obj\Debug\Using the synchronization context.pdb

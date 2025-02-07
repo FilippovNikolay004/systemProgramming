@@ -1,0 +1,5 @@
+D:\IT Step\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\Cancel async\bin\Debug\Cancel async.exe.config
+D:\IT Step\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\Cancel async\bin\Debug\Cancel async.exe
+D:\IT Step\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\Cancel async\bin\Debug\Cancel async.pdb
+D:\IT Step\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\Cancel async\obj\Debug\Cancel async.exe
+D:\IT Step\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\Cancel async\obj\Debug\Cancel async.pdb

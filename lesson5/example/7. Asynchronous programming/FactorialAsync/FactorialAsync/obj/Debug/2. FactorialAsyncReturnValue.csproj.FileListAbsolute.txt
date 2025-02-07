@@ -1,0 +1,24 @@
+C:\Users\Виталий\Desktop\FactorialAsync\FactorialAsync\bin\Debug\FactorialAsync.exe.config
+C:\Users\Виталий\Desktop\FactorialAsync\FactorialAsync\obj\Debug\FactorialAsync.exe
+C:\Users\Виталий\Desktop\FactorialAsync\FactorialAsync\obj\Debug\FactorialAsync.pdb
+C:\Users\Виталий\Desktop\FactorialAsync\FactorialAsync\bin\Debug\FactorialAsync.exe
+C:\Users\Виталий\Desktop\FactorialAsync\FactorialAsync\bin\Debug\FactorialAsync.pdb
+C:\Users\Виталий\Desktop\FactorialAsync\FactorialAsync\obj\Debug\2. FactorialAsyncReturnValue.csprojResolveAssemblyReference.cache
+D:\IT Step\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\FactorialAsync\bin\Debug\FactorialAsync.exe.config
+D:\IT Step\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\FactorialAsync\obj\Debug\FactorialAsync.exe
+D:\IT Step\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\FactorialAsync\obj\Debug\FactorialAsync.pdb
+D:\IT Step\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\FactorialAsync\bin\Debug\FactorialAsync.exe
+D:\IT Step\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\FactorialAsync\bin\Debug\FactorialAsync.pdb
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\FactorialAsync\bin\Debug\FactorialAsync.exe.config
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\FactorialAsync\bin\Debug\FactorialAsync.exe
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\FactorialAsync\bin\Debug\FactorialAsync.pdb
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\FactorialAsync\obj\Debug\2. FactorialAsyncReturnValue.csproj.CoreCompileInputs.cache
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\FactorialAsync\obj\Debug\FactorialAsync.exe
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\FactorialAsync\obj\Debug\FactorialAsync.pdb
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\FactorialAsync\obj\Debug\2. FactorialAsyncReturnValue.csprojResolveAssemblyReference.cache
+D:\КА ШАГ\Системное программирование\Примеры\7. Asynchronous programming\FactorialAsync\FactorialAsync\bin\Debug\FactorialAsync.exe.config
+D:\КА ШАГ\Системное программирование\Примеры\7. Asynchronous programming\FactorialAsync\FactorialAsync\bin\Debug\FactorialAsync.exe
+D:\КА ШАГ\Системное программирование\Примеры\7. Asynchronous programming\FactorialAsync\FactorialAsync\bin\Debug\FactorialAsync.pdb
+D:\КА ШАГ\Системное программирование\Примеры\7. Asynchronous programming\FactorialAsync\FactorialAsync\obj\Debug\2. FactorialAsyncReturnValue.csprojAssemblyReference.cache
+D:\КА ШАГ\Системное программирование\Примеры\7. Asynchronous programming\FactorialAsync\FactorialAsync\obj\Debug\FactorialAsync.exe
+D:\КА ШАГ\Системное программирование\Примеры\7. Asynchronous programming\FactorialAsync\FactorialAsync\obj\Debug\FactorialAsync.pdb

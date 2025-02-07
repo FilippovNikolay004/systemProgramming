@@ -1,0 +1,5 @@
+C:\Users\Виталий\Desktop\FactorialAsync\FactorialSync\bin\Debug\FactorialSync.exe.config
+C:\Users\Виталий\Desktop\FactorialAsync\FactorialSync\bin\Debug\FactorialSync.exe
+C:\Users\Виталий\Desktop\FactorialAsync\FactorialSync\bin\Debug\FactorialSync.pdb
+C:\Users\Виталий\Desktop\FactorialAsync\FactorialSync\obj\Debug\FactorialSync.exe
+C:\Users\Виталий\Desktop\FactorialAsync\FactorialSync\obj\Debug\FactorialSync.pdb

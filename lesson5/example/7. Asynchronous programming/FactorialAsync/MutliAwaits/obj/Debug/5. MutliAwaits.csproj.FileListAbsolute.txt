@@ -1,0 +1,23 @@
+C:\Users\Виталий\Desktop\FactorialAsync\MutliAwaits\bin\Debug\MutliAwaits.exe.config
+C:\Users\Виталий\Desktop\FactorialAsync\MutliAwaits\obj\Debug\MutliAwaits.exe
+C:\Users\Виталий\Desktop\FactorialAsync\MutliAwaits\obj\Debug\MutliAwaits.pdb
+C:\Users\Виталий\Desktop\FactorialAsync\MutliAwaits\bin\Debug\MutliAwaits.exe
+C:\Users\Виталий\Desktop\FactorialAsync\MutliAwaits\bin\Debug\MutliAwaits.pdb
+C:\Users\Виталий\Desktop\FactorialAsync\MutliAwaits\obj\Debug\5. MutliAwaits.csprojResolveAssemblyReference.cache
+D:\IT Step\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\MutliAwaits\bin\Debug\MutliAwaits.exe.config
+D:\IT Step\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\MutliAwaits\bin\Debug\MutliAwaits.exe
+D:\IT Step\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\MutliAwaits\bin\Debug\MutliAwaits.pdb
+D:\IT Step\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\MutliAwaits\obj\Debug\MutliAwaits.exe
+D:\IT Step\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\MutliAwaits\obj\Debug\MutliAwaits.pdb
+D:\IT Step\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\MutliAwaits\obj\Debug\5. MutliAwaits.csprojResolveAssemblyReference.cache
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\MutliAwaits\bin\Debug\MutliAwaits.exe.config
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\MutliAwaits\bin\Debug\MutliAwaits.exe
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\MutliAwaits\bin\Debug\MutliAwaits.pdb
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\MutliAwaits\obj\Debug\5. MutliAwaits.csproj.CoreCompileInputs.cache
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\MutliAwaits\obj\Debug\MutliAwaits.exe
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\MutliAwaits\obj\Debug\MutliAwaits.pdb
+D:\КА ШАГ\Системное программирование\Примеры\7. Asynchronous programming\FactorialAsync\MutliAwaits\bin\Debug\MutliAwaits.exe.config
+D:\КА ШАГ\Системное программирование\Примеры\7. Asynchronous programming\FactorialAsync\MutliAwaits\bin\Debug\MutliAwaits.exe
+D:\КА ШАГ\Системное программирование\Примеры\7. Asynchronous programming\FactorialAsync\MutliAwaits\bin\Debug\MutliAwaits.pdb
+D:\КА ШАГ\Системное программирование\Примеры\7. Asynchronous programming\FactorialAsync\MutliAwaits\obj\Debug\MutliAwaits.exe
+D:\КА ШАГ\Системное программирование\Примеры\7. Asynchronous programming\FactorialAsync\MutliAwaits\obj\Debug\MutliAwaits.pdb

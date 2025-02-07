@@ -1,0 +1,5 @@
+C:\Users\Виталий\Desktop\FactorialAsync\Task.WhenAll\bin\Debug\Task.WhenAll.exe.config
+C:\Users\Виталий\Desktop\FactorialAsync\Task.WhenAll\bin\Debug\Task.WhenAll.exe
+C:\Users\Виталий\Desktop\FactorialAsync\Task.WhenAll\bin\Debug\Task.WhenAll.pdb
+C:\Users\Виталий\Desktop\FactorialAsync\Task.WhenAll\obj\Debug\Task.WhenAll.exe
+C:\Users\Виталий\Desktop\FactorialAsync\Task.WhenAll\obj\Debug\Task.WhenAll.pdb

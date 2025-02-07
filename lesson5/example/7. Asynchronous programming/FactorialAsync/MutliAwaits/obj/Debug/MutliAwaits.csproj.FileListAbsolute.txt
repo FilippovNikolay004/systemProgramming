@@ -1,0 +1,6 @@
+C:\Users\Виталий\Desktop\FactorialAsync\MutliAwaits\bin\Debug\MutliAwaits.exe.config
+C:\Users\Виталий\Desktop\FactorialAsync\MutliAwaits\bin\Debug\MutliAwaits.exe
+C:\Users\Виталий\Desktop\FactorialAsync\MutliAwaits\bin\Debug\MutliAwaits.pdb
+C:\Users\Виталий\Desktop\FactorialAsync\MutliAwaits\obj\Debug\MutliAwaits.csprojResolveAssemblyReference.cache
+C:\Users\Виталий\Desktop\FactorialAsync\MutliAwaits\obj\Debug\MutliAwaits.exe
+C:\Users\Виталий\Desktop\FactorialAsync\MutliAwaits\obj\Debug\MutliAwaits.pdb

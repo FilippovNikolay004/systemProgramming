@@ -1,0 +1,25 @@
+C:\Users\Виталий\Desktop\FactorialAsync\FactorialSync\bin\Debug\FactorialSync.exe.config
+C:\Users\Виталий\Desktop\FactorialAsync\FactorialSync\obj\Debug\FactorialSync.exe
+C:\Users\Виталий\Desktop\FactorialAsync\FactorialSync\obj\Debug\FactorialSync.pdb
+C:\Users\Виталий\Desktop\FactorialAsync\FactorialSync\bin\Debug\FactorialSync.exe
+C:\Users\Виталий\Desktop\FactorialAsync\FactorialSync\bin\Debug\FactorialSync.pdb
+C:\Users\Виталий\Desktop\FactorialAsync\FactorialSync\obj\Debug\1. FactorialSync.csprojResolveAssemblyReference.cache
+D:\IT Step\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\FactorialSync\bin\Debug\FactorialSync.exe.config
+D:\IT Step\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\FactorialSync\bin\Debug\FactorialSync.exe
+D:\IT Step\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\FactorialSync\bin\Debug\FactorialSync.pdb
+D:\IT Step\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\FactorialSync\obj\Debug\FactorialSync.exe
+D:\IT Step\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\FactorialSync\obj\Debug\FactorialSync.pdb
+D:\IT Step\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\FactorialSync\obj\Debug\1. FactorialSync.csprojResolveAssemblyReference.cache
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\FactorialSync\bin\Debug\FactorialSync.exe.config
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\FactorialSync\bin\Debug\FactorialSync.exe
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\FactorialSync\bin\Debug\FactorialSync.pdb
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\FactorialSync\obj\Debug\1. FactorialSync.csprojResolveAssemblyReference.cache
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\FactorialSync\obj\Debug\1. FactorialSync.csproj.CoreCompileInputs.cache
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\FactorialSync\obj\Debug\FactorialSync.exe
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\FactorialSync\obj\Debug\FactorialSync.pdb
+D:\КА ШАГ\Системное программирование\Примеры\7. Asynchronous programming\FactorialAsync\FactorialSync\bin\Debug\FactorialSync.exe.config
+D:\КА ШАГ\Системное программирование\Примеры\7. Asynchronous programming\FactorialAsync\FactorialSync\bin\Debug\FactorialSync.exe
+D:\КА ШАГ\Системное программирование\Примеры\7. Asynchronous programming\FactorialAsync\FactorialSync\bin\Debug\FactorialSync.pdb
+D:\КА ШАГ\Системное программирование\Примеры\7. Asynchronous programming\FactorialAsync\FactorialSync\obj\Debug\1. FactorialSync.csprojAssemblyReference.cache
+D:\КА ШАГ\Системное программирование\Примеры\7. Asynchronous programming\FactorialAsync\FactorialSync\obj\Debug\FactorialSync.exe
+D:\КА ШАГ\Системное программирование\Примеры\7. Asynchronous programming\FactorialAsync\FactorialSync\obj\Debug\FactorialSync.pdb

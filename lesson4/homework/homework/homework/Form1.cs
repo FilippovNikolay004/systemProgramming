@@ -1,18 +1,18 @@
-using static System.Net.Mime.MediaTypeNames;
+п»їusing static System.Net.Mime.MediaTypeNames;
 
 namespace homework {
     public partial class Form1 :Form {
-        // Делегат для копирования файла
+        // Р”РµР»РµРіР°С‚ РґР»СЏ РєРѕРїРёСЂРѕРІР°РЅРёСЏ С„Р°Р№Р»Р°
         private delegate void CopyFileDelegate(string sourcePath, string destinationPath);
 
-        // Делегат для обновления прогресса
+        // Р”РµР»РµРіР°С‚ РґР»СЏ РѕР±РЅРѕРІР»РµРЅРёСЏ РїСЂРѕРіСЂРµСЃСЃР°
         private delegate void UpdateProgressDelegate(int progress);
 
         public Form1() {
             InitializeComponent();
         }
 
-        // Обработчик для кнопки "Файл" (выбор исходного файла)
+        // РћР±СЂР°Р±РѕС‚С‡РёРє РґР»СЏ РєРЅРѕРїРєРё "Р¤Р°Р№Р»" (РІС‹Р±РѕСЂ РёСЃС…РѕРґРЅРѕРіРѕ С„Р°Р№Р»Р°)
         private void button1_Click(object sender, EventArgs e) {
             using (OpenFileDialog openFileDialog = new OpenFileDialog()) {
                 if (openFileDialog.ShowDialog() == DialogResult.OK) {
@@ -21,7 +21,7 @@ namespace homework {
             }
         }
 
-        // Обработчик для кнопки "Файл" (выбор директории назначения)
+        // РћР±СЂР°Р±РѕС‚С‡РёРє РґР»СЏ РєРЅРѕРїРєРё "Р¤Р°Р№Р»" (РІС‹Р±РѕСЂ РґРёСЂРµРєС‚РѕСЂРёРё РЅР°Р·РЅР°С‡РµРЅРёСЏ)
         private void button2_Click(object sender, EventArgs e) {
             using (FolderBrowserDialog folderDialog = new FolderBrowserDialog()) {
                 if (folderDialog.ShowDialog() == DialogResult.OK) {
@@ -51,7 +51,7 @@ namespace homework {
             sourceStream.Close();
             destinationStream.Close();
 
-            // Вызываем метод после завершения копирования
+            // Р’С‹Р·С‹РІР°РµРј РјРµС‚РѕРґ РїРѕСЃР»Рµ Р·Р°РІРµСЂС€РµРЅРёСЏ РєРѕРїРёСЂРѕРІР°РЅРёСЏ
             Invoke(new Action(OnCopyComplete));
         }
 
@@ -67,17 +67,17 @@ namespace homework {
                 progressBar1.Value = 0;
                 button3.Enabled = false;
 
-                // Создаем новый поток для копирования
+                // РЎРѕР·РґР°РµРј РЅРѕРІС‹Р№ РїРѕС‚РѕРє РґР»СЏ РєРѕРїРёСЂРѕРІР°РЅРёСЏ
                 Thread copyThread = new Thread(() => CopyFile(sourcePath, destinationPath));
                 copyThread.Start();
             } else {
-                MessageBox.Show("Убедитесь, что исходный файл существует и путь назначения корректен.", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("РЈР±РµРґРёС‚РµСЃСЊ, С‡С‚Рѕ РёСЃС…РѕРґРЅС‹Р№ С„Р°Р№Р» СЃСѓС‰РµСЃС‚РІСѓРµС‚ Рё РїСѓС‚СЊ РЅР°Р·РЅР°С‡РµРЅРёСЏ РєРѕСЂСЂРµРєС‚РµРЅ.", "РћС€РёР±РєР°", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
         private void OnCopyComplete() {
-            button3.Enabled = true; // Включаем кнопку копирования после завершения
-            MessageBox.Show("Копирование завершено!", "Успех", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            button3.Enabled = true; // Р’РєР»СЋС‡Р°РµРј РєРЅРѕРїРєСѓ РєРѕРїРёСЂРѕРІР°РЅРёСЏ РїРѕСЃР»Рµ Р·Р°РІРµСЂС€РµРЅРёСЏ
+            MessageBox.Show("РљРѕРїРёСЂРѕРІР°РЅРёРµ Р·Р°РІРµСЂС€РµРЅРѕ!", "РЈСЃРїРµС…", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
     }
 }

@@ -1,0 +1,10 @@
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\Using the Invoke method\bin\Debug\Using the Invoke method.exe.config
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\Using the Invoke method\bin\Debug\Using the Invoke method.exe
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\Using the Invoke method\bin\Debug\Using the Invoke method.pdb
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\Using the Invoke method\obj\Debug\Using the Invoke method.csprojResolveAssemblyReference.cache
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\Using the Invoke method\obj\Debug\Using_the_Invoke_method.Form1.resources
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\Using the Invoke method\obj\Debug\Using_the_Invoke_method.Properties.Resources.resources
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\Using the Invoke method\obj\Debug\Using the Invoke method.csproj.GenerateResource.Cache
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\Using the Invoke method\obj\Debug\Using the Invoke method.csproj.CoreCompileInputs.cache
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\Using the Invoke method\obj\Debug\Using the Invoke method.exe
+D:\Vitaliy\Системное программирование .NET\Примеры\8. Asynchronous programming\FactorialAsync\Using the Invoke method\obj\Debug\Using the Invoke method.pdb

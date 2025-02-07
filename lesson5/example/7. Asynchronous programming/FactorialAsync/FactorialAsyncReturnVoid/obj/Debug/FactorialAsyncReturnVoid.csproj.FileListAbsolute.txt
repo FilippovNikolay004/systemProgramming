@@ -1,0 +1,1 @@
+C:\Users\Виталий\Desktop\FactorialAsync\FactorialAsyncReturnVoid\bin\Debug\FactorialAsyncReturnVoid.exe.config

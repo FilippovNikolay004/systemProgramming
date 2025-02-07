@@ -1,0 +1,6 @@
+D:\КА ШАГ\Системное программирование\Примеры\7. Asynchronous programming\FactorialAsync\ParallelFactorialAsync\bin\Debug\ParallelFactorialAsync.exe.config
+D:\КА ШАГ\Системное программирование\Примеры\7. Asynchronous programming\FactorialAsync\ParallelFactorialAsync\bin\Debug\ParallelFactorialAsync.exe
+D:\КА ШАГ\Системное программирование\Примеры\7. Asynchronous programming\FactorialAsync\ParallelFactorialAsync\bin\Debug\ParallelFactorialAsync.pdb
+D:\КА ШАГ\Системное программирование\Примеры\7. Asynchronous programming\FactorialAsync\ParallelFactorialAsync\obj\Debug\ParallelFactorialAsync.csprojAssemblyReference.cache
+D:\КА ШАГ\Системное программирование\Примеры\7. Asynchronous programming\FactorialAsync\ParallelFactorialAsync\obj\Debug\ParallelFactorialAsync.exe
+D:\КА ШАГ\Системное программирование\Примеры\7. Asynchronous programming\FactorialAsync\ParallelFactorialAsync\obj\Debug\ParallelFactorialAsync.pdb
