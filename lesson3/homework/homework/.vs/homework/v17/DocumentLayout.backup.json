@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Step\\3 course\\systemProgramming\\lesson3\\homework\\homework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E05C004-B151-4349-BAD6-A55F26F85BD5}|homework\\homework.csproj|d:\\step\\3 course\\systemprogramming\\lesson3\\homework\\homework\\homework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3E05C004-B151-4349-BAD6-A55F26F85BD5}|homework\\homework.csproj|solutionrelative:homework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3E05C004-B151-4349-BAD6-A55F26F85BD5}|homework\\homework.csproj|d:\\step\\3 course\\systemprogramming\\lesson3\\homework\\homework\\homework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E05C004-B151-4349-BAD6-A55F26F85BD5}|homework\\homework.csproj|solutionrelative:homework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E05C004-B151-4349-BAD6-A55F26F85BD5}|homework\\homework.csproj|D:\\Step\\3 course\\systemProgramming\\lesson3\\homework\\homework\\homework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E05C004-B151-4349-BAD6-A55F26F85BD5}|homework\\homework.csproj|solutionrelative:homework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "D:\\Step\\3 course\\systemProgramming\\lesson3\\homework\\homework\\homework\\Form1.cs",
               "RelativeDocumentMoniker": "homework\\Form1.cs",
@@ -42,13 +42,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\Step\\3 course\\systemProgramming\\lesson3\\homework\\homework\\homework\\Form1.cs",
               "RelativeDocumentMoniker": "homework\\Form1.cs",
               "ToolTip": "D:\\Step\\3 course\\systemProgramming\\lesson3\\homework\\homework\\homework\\Form1.cs",
               "RelativeToolTip": "homework\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowEMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T11:59:43.887Z",
               "EditorCaption": ""

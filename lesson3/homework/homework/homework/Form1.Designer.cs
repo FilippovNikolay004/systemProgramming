@@ -27,10 +27,6 @@
         ///  the contents of this method with the code editor.
         /// </summary>
         private void InitializeComponent() {
-            ListViewItem listViewItem1 = new ListViewItem("Имя");
-            ListViewItem listViewItem2 = new ListViewItem("Папка");
-            ListViewItem listViewItem3 = new ListViewItem("Размер");
-            ListViewItem listViewItem4 = new ListViewItem("Дата модификации");
             label1 = new Label();
             label2 = new Label();
             textBox1 = new TextBox();
@@ -39,8 +35,8 @@
             label3 = new Label();
             label4 = new Label();
             label5 = new Label();
-            button1 = new Button();
-            button2 = new Button();
+            button1_start = new Button();
+            button2_stop = new Button();
             checkBox1 = new CheckBox();
             label6 = new Label();
             label7 = new Label();
@@ -113,23 +109,25 @@
             label5.TabIndex = 6;
             label5.Text = "Диски";
             // 
-            // button1
+            // button1_start
             // 
-            button1.Location = new Point(536, 27);
-            button1.Name = "button1";
-            button1.Size = new Size(75, 23);
-            button1.TabIndex = 7;
-            button1.Text = "Найти";
-            button1.UseVisualStyleBackColor = true;
+            button1_start.Location = new Point(536, 27);
+            button1_start.Name = "button1_start";
+            button1_start.Size = new Size(75, 23);
+            button1_start.TabIndex = 7;
+            button1_start.Text = "Найти";
+            button1_start.UseVisualStyleBackColor = true;
+            button1_start.Click += button1_Click;
             // 
-            // button2
+            // button2_stop
             // 
-            button2.Location = new Point(617, 27);
-            button2.Name = "button2";
-            button2.Size = new Size(75, 23);
-            button2.TabIndex = 8;
-            button2.Text = "Остановить";
-            button2.UseVisualStyleBackColor = true;
+            button2_stop.Location = new Point(617, 27);
+            button2_stop.Name = "button2_stop";
+            button2_stop.Size = new Size(75, 23);
+            button2_stop.TabIndex = 8;
+            button2_stop.Text = "Остановить";
+            button2_stop.UseVisualStyleBackColor = true;
+            button2_stop.Click += button2_stop_Click;
             // 
             // checkBox1
             // 
@@ -172,13 +170,12 @@
             // 
             listView1.GridLines = true;
             listView1.ImeMode = ImeMode.NoControl;
-            listView1.Items.AddRange(new ListViewItem[] { listViewItem1, listViewItem2, listViewItem3, listViewItem4 });
             listView1.Location = new Point(12, 87);
             listView1.Name = "listView1";
             listView1.Size = new Size(776, 351);
             listView1.TabIndex = 13;
             listView1.UseCompatibleStateImageBehavior = false;
-            listView1.View = View.SmallIcon;
+            listView1.View = View.Details;
             // 
             // Form1
             // 
@@ -190,8 +187,8 @@
             Controls.Add(label7);
             Controls.Add(label6);
             Controls.Add(checkBox1);
-            Controls.Add(button2);
-            Controls.Add(button1);
+            Controls.Add(button2_stop);
+            Controls.Add(button1_start);
             Controls.Add(label5);
             Controls.Add(label4);
             Controls.Add(label3);
@@ -216,8 +213,8 @@
         private Label label3;
         private Label label4;
         private Label label5;
-        private Button button1;
-        private Button button2;
+        private Button button1_start;
+        private Button button2_stop;
         private CheckBox checkBox1;
         private Label label6;
         private Label label7;
