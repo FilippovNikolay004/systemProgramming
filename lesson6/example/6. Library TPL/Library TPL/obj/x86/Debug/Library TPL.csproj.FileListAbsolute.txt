@@ -1,0 +1,65 @@
+C:\Users\Виталий\Desktop\Library TPL\Library TPL\bin\Debug\Library TPL.exe
+C:\Users\Виталий\Desktop\Library TPL\Library TPL\bin\Debug\Library TPL.pdb
+C:\Users\Виталий\Desktop\Library TPL\Library TPL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Виталий\Desktop\Library TPL\Library TPL\obj\x86\Debug\Library_TPL.Form1.resources
+C:\Users\Виталий\Desktop\Library TPL\Library TPL\obj\x86\Debug\Library_TPL.Properties.Resources.resources
+C:\Users\Виталий\Desktop\Library TPL\Library TPL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Виталий\Desktop\Library TPL\Library TPL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Виталий\Desktop\Library TPL\Library TPL\obj\x86\Debug\Library TPL.exe
+C:\Users\Виталий\Desktop\Library TPL\Library TPL\obj\x86\Debug\Library TPL.pdb
+D:\Programming\Системное программирование .NET\Examples\Библиотека TPL\Library TPL\Library TPL\obj\x86\Debug\Library TPL.exe
+D:\Programming\Системное программирование .NET\Examples\Библиотека TPL\Library TPL\Library TPL\obj\x86\Debug\Library TPL.pdb
+D:\Programming\Системное программирование .NET\Examples\Библиотека TPL\Library TPL\Library TPL\bin\Debug\Library TPL.exe
+D:\Programming\Системное программирование .NET\Examples\Библиотека TPL\Library TPL\Library TPL\bin\Debug\Library TPL.pdb
+D:\Programming\Системное программирование .NET\Examples\Библиотека TPL\Library TPL\Library TPL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programming\Системное программирование .NET\Examples\Библиотека TPL\Library TPL\Library TPL\obj\x86\Debug\Library_TPL.Form1.resources
+D:\Programming\Системное программирование .NET\Examples\Библиотека TPL\Library TPL\Library TPL\obj\x86\Debug\Library_TPL.Properties.Resources.resources
+D:\Programming\Системное программирование .NET\Examples\Библиотека TPL\Library TPL\Library TPL\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Programming\Системное программирование .NET\Examples\Библиотека TPL\Library TPL\Library TPL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\polyanskiy\Desktop\7. Library TPL\Library TPL\obj\x86\Debug\Library TPL.exe
+C:\Users\polyanskiy\Desktop\7. Library TPL\Library TPL\obj\x86\Debug\Library TPL.pdb
+C:\Users\polyanskiy\Desktop\7. Library TPL\Library TPL\bin\Debug\Library TPL.exe
+C:\Users\polyanskiy\Desktop\7. Library TPL\Library TPL\bin\Debug\Library TPL.pdb
+C:\Users\polyanskiy\Desktop\7. Library TPL\Library TPL\obj\x86\Debug\Library TPL.csprojResolveAssemblyReference.cache
+C:\Users\polyanskiy\Desktop\7. Library TPL\Library TPL\obj\x86\Debug\Library_TPL.Form1.resources
+C:\Users\polyanskiy\Desktop\7. Library TPL\Library TPL\obj\x86\Debug\Library_TPL.Properties.Resources.resources
+C:\Users\polyanskiy\Desktop\7. Library TPL\Library TPL\obj\x86\Debug\Library TPL.csproj.GenerateResource.Cache
+D:\Programming\Системное программирование .NET\Examples\7. Library TPL\Library TPL\obj\x86\Debug\Library TPL.exe
+D:\Programming\Системное программирование .NET\Examples\7. Library TPL\Library TPL\obj\x86\Debug\Library TPL.pdb
+D:\Programming\Системное программирование .NET\Examples\7. Library TPL\Library TPL\bin\Debug\Library TPL.exe
+D:\Programming\Системное программирование .NET\Examples\7. Library TPL\Library TPL\bin\Debug\Library TPL.pdb
+D:\Programming\Системное программирование .NET\Examples\7. Library TPL\Library TPL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programming\Системное программирование .NET\Examples\7. Library TPL\Library TPL\obj\x86\Debug\Library_TPL.Form1.resources
+D:\Programming\Системное программирование .NET\Examples\7. Library TPL\Library TPL\obj\x86\Debug\Library_TPL.Properties.Resources.resources
+D:\Programming\Системное программирование .NET\Examples\7. Library TPL\Library TPL\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Programming\Системное программирование .NET\Examples\7. Library TPL\Library TPL\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\БПУ-1211\Системное программирование .NET\Примеры\7. Library TPL\Library TPL\obj\x86\Debug\Library TPL.exe
+D:\БПУ-1211\Системное программирование .NET\Примеры\7. Library TPL\Library TPL\obj\x86\Debug\Library TPL.pdb
+D:\БПУ-1211\Системное программирование .NET\Примеры\7. Library TPL\Library TPL\bin\Debug\Library TPL.exe
+D:\БПУ-1211\Системное программирование .NET\Примеры\7. Library TPL\Library TPL\bin\Debug\Library TPL.pdb
+D:\БПУ-1211\Системное программирование .NET\Примеры\7. Library TPL\Library TPL\obj\x86\Debug\Library_TPL.Form1.resources
+D:\БПУ-1211\Системное программирование .NET\Примеры\7. Library TPL\Library TPL\obj\x86\Debug\Library_TPL.Properties.Resources.resources
+D:\БПУ-1211\Системное программирование .NET\Примеры\7. Library TPL\Library TPL\obj\x86\Debug\Library TPL.csproj.GenerateResource.Cache
+D:\Programming\Системное программирование .NET\Примеры\7. Library TPL\Library TPL\obj\x86\Debug\Library TPL.exe
+D:\Programming\Системное программирование .NET\Примеры\7. Library TPL\Library TPL\obj\x86\Debug\Library TPL.pdb
+D:\Programming\Системное программирование .NET\Примеры\7. Library TPL\Library TPL\bin\Debug\Library TPL.exe
+D:\Programming\Системное программирование .NET\Примеры\7. Library TPL\Library TPL\bin\Debug\Library TPL.pdb
+D:\Programming\Системное программирование .NET\Примеры\7. Library TPL\Library TPL\obj\x86\Debug\Library_TPL.Form1.resources
+D:\Programming\Системное программирование .NET\Примеры\7. Library TPL\Library TPL\obj\x86\Debug\Library_TPL.Properties.Resources.resources
+D:\Programming\Системное программирование .NET\Примеры\7. Library TPL\Library TPL\obj\x86\Debug\Library TPL.csproj.GenerateResource.Cache
+D:\IT Step\Системное программирование .NET\Примеры\6. Library TPL\Library TPL\obj\x86\Debug\Library TPL.exe
+D:\IT Step\Системное программирование .NET\Примеры\6. Library TPL\Library TPL\obj\x86\Debug\Library TPL.pdb
+D:\IT Step\Системное программирование .NET\Примеры\6. Library TPL\Library TPL\bin\Debug\Library TPL.exe
+D:\IT Step\Системное программирование .NET\Примеры\6. Library TPL\Library TPL\bin\Debug\Library TPL.pdb
+D:\IT Step\Системное программирование .NET\Примеры\6. Library TPL\Library TPL\obj\x86\Debug\Library_TPL.Form1.resources
+D:\IT Step\Системное программирование .NET\Примеры\6. Library TPL\Library TPL\obj\x86\Debug\Library_TPL.Properties.Resources.resources
+D:\IT Step\Системное программирование .NET\Примеры\6. Library TPL\Library TPL\obj\x86\Debug\Library TPL.csproj.GenerateResource.Cache
+D:\IT Step\Системное программирование .NET\Примеры\6. Library TPL\Library TPL\obj\x86\Debug\Library TPL.csprojResolveAssemblyReference.cache
+C:\Users\Polyanskiy\Desktop\6. Library TPL\Library TPL\obj\x86\Debug\Library TPL.exe
+C:\Users\Polyanskiy\Desktop\6. Library TPL\Library TPL\obj\x86\Debug\Library TPL.pdb
+C:\Users\Polyanskiy\Desktop\6. Library TPL\Library TPL\bin\Debug\Library TPL.exe
+C:\Users\Polyanskiy\Desktop\6. Library TPL\Library TPL\bin\Debug\Library TPL.pdb
+C:\Users\Polyanskiy\Desktop\6. Library TPL\Library TPL\obj\x86\Debug\Library TPL.csprojResolveAssemblyReference.cache
+C:\Users\Polyanskiy\Desktop\6. Library TPL\Library TPL\obj\x86\Debug\Library_TPL.Form1.resources
+C:\Users\Polyanskiy\Desktop\6. Library TPL\Library TPL\obj\x86\Debug\Library_TPL.Properties.Resources.resources
+C:\Users\Polyanskiy\Desktop\6. Library TPL\Library TPL\obj\x86\Debug\Library TPL.csproj.GenerateResource.Cache

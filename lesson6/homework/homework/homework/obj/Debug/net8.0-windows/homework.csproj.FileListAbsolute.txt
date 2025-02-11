@@ -1,0 +1,34 @@
+D:\ItStep - Prog\system prog C#\6 lesson\hw7\homework\bin\Debug\net8.0-windows\homework.exe
+D:\ItStep - Prog\system prog C#\6 lesson\hw7\homework\bin\Debug\net8.0-windows\homework.deps.json
+D:\ItStep - Prog\system prog C#\6 lesson\hw7\homework\bin\Debug\net8.0-windows\homework.runtimeconfig.json
+D:\ItStep - Prog\system prog C#\6 lesson\hw7\homework\bin\Debug\net8.0-windows\homework.dll
+D:\ItStep - Prog\system prog C#\6 lesson\hw7\homework\bin\Debug\net8.0-windows\homework.pdb
+D:\ItStep - Prog\system prog C#\6 lesson\hw7\homework\obj\Debug\net8.0-windows\homework.Form1.resources
+D:\ItStep - Prog\system prog C#\6 lesson\hw7\homework\obj\Debug\net8.0-windows\homework.csproj.GenerateResource.cache
+D:\ItStep - Prog\system prog C#\6 lesson\hw7\homework\obj\Debug\net8.0-windows\homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\ItStep - Prog\system prog C#\6 lesson\hw7\homework\obj\Debug\net8.0-windows\homework.AssemblyInfoInputs.cache
+D:\ItStep - Prog\system prog C#\6 lesson\hw7\homework\obj\Debug\net8.0-windows\homework.AssemblyInfo.cs
+D:\ItStep - Prog\system prog C#\6 lesson\hw7\homework\obj\Debug\net8.0-windows\homework.csproj.CoreCompileInputs.cache
+D:\ItStep - Prog\system prog C#\6 lesson\hw7\homework\obj\Debug\net8.0-windows\homework.sourcelink.json
+D:\ItStep - Prog\system prog C#\6 lesson\hw7\homework\obj\Debug\net8.0-windows\homework.dll
+D:\ItStep - Prog\system prog C#\6 lesson\hw7\homework\obj\Debug\net8.0-windows\refint\homework.dll
+D:\ItStep - Prog\system prog C#\6 lesson\hw7\homework\obj\Debug\net8.0-windows\homework.pdb
+D:\ItStep - Prog\system prog C#\6 lesson\hw7\homework\obj\Debug\net8.0-windows\homework.genruntimeconfig.cache
+D:\ItStep - Prog\system prog C#\6 lesson\hw7\homework\obj\Debug\net8.0-windows\ref\homework.dll
+D:\Step\3 course\systemProgramming\lesson6\homework\homework\homework\bin\Debug\net8.0-windows\homework.exe
+D:\Step\3 course\systemProgramming\lesson6\homework\homework\homework\bin\Debug\net8.0-windows\homework.deps.json
+D:\Step\3 course\systemProgramming\lesson6\homework\homework\homework\bin\Debug\net8.0-windows\homework.runtimeconfig.json
+D:\Step\3 course\systemProgramming\lesson6\homework\homework\homework\bin\Debug\net8.0-windows\homework.dll
+D:\Step\3 course\systemProgramming\lesson6\homework\homework\homework\bin\Debug\net8.0-windows\homework.pdb
+D:\Step\3 course\systemProgramming\lesson6\homework\homework\homework\obj\Debug\net8.0-windows\homework.Form1.resources
+D:\Step\3 course\systemProgramming\lesson6\homework\homework\homework\obj\Debug\net8.0-windows\homework.csproj.GenerateResource.cache
+D:\Step\3 course\systemProgramming\lesson6\homework\homework\homework\obj\Debug\net8.0-windows\homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Step\3 course\systemProgramming\lesson6\homework\homework\homework\obj\Debug\net8.0-windows\homework.AssemblyInfoInputs.cache
+D:\Step\3 course\systemProgramming\lesson6\homework\homework\homework\obj\Debug\net8.0-windows\homework.AssemblyInfo.cs
+D:\Step\3 course\systemProgramming\lesson6\homework\homework\homework\obj\Debug\net8.0-windows\homework.csproj.CoreCompileInputs.cache
+D:\Step\3 course\systemProgramming\lesson6\homework\homework\homework\obj\Debug\net8.0-windows\homework.sourcelink.json
+D:\Step\3 course\systemProgramming\lesson6\homework\homework\homework\obj\Debug\net8.0-windows\homework.dll
+D:\Step\3 course\systemProgramming\lesson6\homework\homework\homework\obj\Debug\net8.0-windows\refint\homework.dll
+D:\Step\3 course\systemProgramming\lesson6\homework\homework\homework\obj\Debug\net8.0-windows\homework.pdb
+D:\Step\3 course\systemProgramming\lesson6\homework\homework\homework\obj\Debug\net8.0-windows\homework.genruntimeconfig.cache
+D:\Step\3 course\systemProgramming\lesson6\homework\homework\homework\obj\Debug\net8.0-windows\ref\homework.dll
