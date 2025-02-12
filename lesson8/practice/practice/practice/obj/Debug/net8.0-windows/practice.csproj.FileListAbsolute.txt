@@ -1,0 +1,17 @@
+D:\Step\3 course\systemProgramming\lesson8\practice\practice\practice\bin\Debug\net8.0-windows\practice.exe
+D:\Step\3 course\systemProgramming\lesson8\practice\practice\practice\bin\Debug\net8.0-windows\practice.deps.json
+D:\Step\3 course\systemProgramming\lesson8\practice\practice\practice\bin\Debug\net8.0-windows\practice.runtimeconfig.json
+D:\Step\3 course\systemProgramming\lesson8\practice\practice\practice\bin\Debug\net8.0-windows\practice.dll
+D:\Step\3 course\systemProgramming\lesson8\practice\practice\practice\bin\Debug\net8.0-windows\practice.pdb
+D:\Step\3 course\systemProgramming\lesson8\practice\practice\practice\obj\Debug\net8.0-windows\practice.Form1.resources
+D:\Step\3 course\systemProgramming\lesson8\practice\practice\practice\obj\Debug\net8.0-windows\practice.csproj.GenerateResource.cache
+D:\Step\3 course\systemProgramming\lesson8\practice\practice\practice\obj\Debug\net8.0-windows\practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Step\3 course\systemProgramming\lesson8\practice\practice\practice\obj\Debug\net8.0-windows\practice.AssemblyInfoInputs.cache
+D:\Step\3 course\systemProgramming\lesson8\practice\practice\practice\obj\Debug\net8.0-windows\practice.AssemblyInfo.cs
+D:\Step\3 course\systemProgramming\lesson8\practice\practice\practice\obj\Debug\net8.0-windows\practice.csproj.CoreCompileInputs.cache
+D:\Step\3 course\systemProgramming\lesson8\practice\practice\practice\obj\Debug\net8.0-windows\practice.sourcelink.json
+D:\Step\3 course\systemProgramming\lesson8\practice\practice\practice\obj\Debug\net8.0-windows\practice.dll
+D:\Step\3 course\systemProgramming\lesson8\practice\practice\practice\obj\Debug\net8.0-windows\refint\practice.dll
+D:\Step\3 course\systemProgramming\lesson8\practice\practice\practice\obj\Debug\net8.0-windows\practice.pdb
+D:\Step\3 course\systemProgramming\lesson8\practice\practice\practice\obj\Debug\net8.0-windows\practice.genruntimeconfig.cache
+D:\Step\3 course\systemProgramming\lesson8\practice\practice\practice\obj\Debug\net8.0-windows\ref\practice.dll

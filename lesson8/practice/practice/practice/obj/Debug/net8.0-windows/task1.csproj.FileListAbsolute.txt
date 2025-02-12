@@ -1,0 +1,17 @@
+D:\Step\3 course\systemProgramming\lesson8\practice\practice\practice\bin\Debug\net8.0-windows\task1.exe
+D:\Step\3 course\systemProgramming\lesson8\practice\practice\practice\bin\Debug\net8.0-windows\task1.deps.json
+D:\Step\3 course\systemProgramming\lesson8\practice\practice\practice\bin\Debug\net8.0-windows\task1.runtimeconfig.json
+D:\Step\3 course\systemProgramming\lesson8\practice\practice\practice\bin\Debug\net8.0-windows\task1.dll
+D:\Step\3 course\systemProgramming\lesson8\practice\practice\practice\bin\Debug\net8.0-windows\task1.pdb
+D:\Step\3 course\systemProgramming\lesson8\practice\practice\practice\obj\Debug\net8.0-windows\task1.csproj.GenerateResource.cache
+D:\Step\3 course\systemProgramming\lesson8\practice\practice\practice\obj\Debug\net8.0-windows\task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Step\3 course\systemProgramming\lesson8\practice\practice\practice\obj\Debug\net8.0-windows\task1.AssemblyInfoInputs.cache
+D:\Step\3 course\systemProgramming\lesson8\practice\practice\practice\obj\Debug\net8.0-windows\task1.AssemblyInfo.cs
+D:\Step\3 course\systemProgramming\lesson8\practice\practice\practice\obj\Debug\net8.0-windows\task1.csproj.CoreCompileInputs.cache
+D:\Step\3 course\systemProgramming\lesson8\practice\practice\practice\obj\Debug\net8.0-windows\task1.sourcelink.json
+D:\Step\3 course\systemProgramming\lesson8\practice\practice\practice\obj\Debug\net8.0-windows\task1.dll
+D:\Step\3 course\systemProgramming\lesson8\practice\practice\practice\obj\Debug\net8.0-windows\refint\task1.dll
+D:\Step\3 course\systemProgramming\lesson8\practice\practice\practice\obj\Debug\net8.0-windows\task1.pdb
+D:\Step\3 course\systemProgramming\lesson8\practice\practice\practice\obj\Debug\net8.0-windows\task1.genruntimeconfig.cache
+D:\Step\3 course\systemProgramming\lesson8\practice\practice\practice\obj\Debug\net8.0-windows\ref\task1.dll
+D:\Step\3 course\systemProgramming\lesson8\practice\practice\practice\obj\Debug\net8.0-windows\practice.Form1.resources
