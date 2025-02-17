@@ -1,0 +1,24 @@
+C:\Programming\Системное программирование\Synchronization_Lock\Synchronization_Lock\bin\Debug\Synchronization_Lock.exe.config
+C:\Programming\Системное программирование\Synchronization_Lock\Synchronization_Lock\bin\Debug\Synchronization_Lock.exe
+C:\Programming\Системное программирование\Synchronization_Lock\Synchronization_Lock\bin\Debug\Synchronization_Lock.pdb
+C:\Programming\Системное программирование\Synchronization_Lock\Synchronization_Lock\obj\Debug\Synchronization_Lock.csprojResolveAssemblyReference.cache
+C:\Programming\Системное программирование\Synchronization_Lock\Synchronization_Lock\obj\Debug\Synchronization_Lock.exe
+C:\Programming\Системное программирование\Synchronization_Lock\Synchronization_Lock\obj\Debug\Synchronization_Lock.pdb
+D:\БПУ-1211\Системное программирование .NET\Примеры\9. Synchronization\1. Synchronization_Lock\Synchronization_Lock\bin\Debug\Synchronization_Lock.exe.config
+D:\БПУ-1211\Системное программирование .NET\Примеры\9. Synchronization\1. Synchronization_Lock\Synchronization_Lock\obj\Debug\Synchronization_Lock.exe
+D:\БПУ-1211\Системное программирование .NET\Примеры\9. Synchronization\1. Synchronization_Lock\Synchronization_Lock\obj\Debug\Synchronization_Lock.pdb
+D:\БПУ-1211\Системное программирование .NET\Примеры\9. Synchronization\1. Synchronization_Lock\Synchronization_Lock\bin\Debug\Synchronization_Lock.exe
+D:\БПУ-1211\Системное программирование .NET\Примеры\9. Synchronization\1. Synchronization_Lock\Synchronization_Lock\bin\Debug\Synchronization_Lock.pdb
+D:\БПУ-1211\Системное программирование .NET\Примеры\9. Synchronization\1. Synchronization_Lock\Synchronization_Lock\obj\Debug\Synchronization_Lock.csprojResolveAssemblyReference.cache
+D:\Programming\Системное программирование .NET\Примеры\9. Synchronization\1. Synchronization_Lock\Synchronization_Lock\bin\Debug\Synchronization_Lock.exe.config
+D:\Programming\Системное программирование .NET\Примеры\9. Synchronization\1. Synchronization_Lock\Synchronization_Lock\obj\Debug\Synchronization_Lock.exe
+D:\Programming\Системное программирование .NET\Примеры\9. Synchronization\1. Synchronization_Lock\Synchronization_Lock\obj\Debug\Synchronization_Lock.pdb
+D:\Programming\Системное программирование .NET\Примеры\9. Synchronization\1. Synchronization_Lock\Synchronization_Lock\bin\Debug\Synchronization_Lock.exe
+D:\Programming\Системное программирование .NET\Примеры\9. Synchronization\1. Synchronization_Lock\Synchronization_Lock\bin\Debug\Synchronization_Lock.pdb
+D:\Programming\Системное программирование .NET\Примеры\9. Synchronization\1. Synchronization_Lock\Synchronization_Lock\obj\Debug\Synchronization_Lock.csprojResolveAssemblyReference.cache
+D:\IT Step\Системное программирование .NET\Примеры\7. Synchronization\1. Synchronization_Lock\Synchronization_Lock\bin\Debug\Synchronization_Lock.exe.config
+D:\IT Step\Системное программирование .NET\Примеры\7. Synchronization\1. Synchronization_Lock\Synchronization_Lock\obj\Debug\Synchronization_Lock.exe
+D:\IT Step\Системное программирование .NET\Примеры\7. Synchronization\1. Synchronization_Lock\Synchronization_Lock\obj\Debug\Synchronization_Lock.pdb
+D:\IT Step\Системное программирование .NET\Примеры\7. Synchronization\1. Synchronization_Lock\Synchronization_Lock\bin\Debug\Synchronization_Lock.exe
+D:\IT Step\Системное программирование .NET\Примеры\7. Synchronization\1. Synchronization_Lock\Synchronization_Lock\bin\Debug\Synchronization_Lock.pdb
+D:\IT Step\Системное программирование .NET\Примеры\7. Synchronization\1. Synchronization_Lock\Synchronization_Lock\obj\Debug\Synchronization_Lock.csprojResolveAssemblyReference.cache

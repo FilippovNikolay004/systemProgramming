@@ -1,0 +1,16 @@
+C:\Учебный процесс\C#\C#Projects\Системка\Мьютексы,семафоры, события и критические секции\GUID\bin\Debug\GUID.exe
+C:\Учебный процесс\C#\C#Projects\Системка\Мьютексы,семафоры, события и критические секции\GUID\bin\Debug\GUID.pdb
+C:\Учебный процесс\C#\C#Projects\Системка\Мьютексы,семафоры, события и критические секции\GUID\obj\Debug\ResolveAssemblyReference.cache
+C:\Учебный процесс\C#\C#Projects\Системка\Мьютексы,семафоры, события и критические секции\GUID\obj\Debug\GUID.Form1.resources
+C:\Учебный процесс\C#\C#Projects\Системка\Мьютексы,семафоры, события и критические секции\GUID\obj\Debug\GUID.Properties.Resources.resources
+C:\Учебный процесс\C#\C#Projects\Системка\Мьютексы,семафоры, события и критические секции\GUID\obj\Debug\GUID.csproj.GenerateResource.Cache
+C:\Учебный процесс\C#\C#Projects\Системка\Мьютексы,семафоры, события и критические секции\GUID\obj\Debug\GUID.exe
+C:\Учебный процесс\C#\C#Projects\Системка\Мьютексы,семафоры, события и критические секции\GUID\obj\Debug\GUID.pdb
+C:\Учебный процесс\C#\Системное программирование\Синхронизация потоков\GUID\obj\Debug\GUID.exe
+C:\Учебный процесс\C#\Системное программирование\Синхронизация потоков\GUID\obj\Debug\GUID.pdb
+C:\Учебный процесс\C#\Системное программирование\Синхронизация потоков\GUID\bin\Debug\GUID.exe
+C:\Учебный процесс\C#\Системное программирование\Синхронизация потоков\GUID\bin\Debug\GUID.pdb
+C:\Учебный процесс\C#\Системное программирование\Синхронизация потоков\GUID\obj\Debug\ResolveAssemblyReference.cache
+C:\Учебный процесс\C#\Системное программирование\Синхронизация потоков\GUID\obj\Debug\GUID.Form1.resources
+C:\Учебный процесс\C#\Системное программирование\Синхронизация потоков\GUID\obj\Debug\GUID.Properties.Resources.resources
+C:\Учебный процесс\C#\Системное программирование\Синхронизация потоков\GUID\obj\Debug\GUID.csproj.GenerateResource.Cache

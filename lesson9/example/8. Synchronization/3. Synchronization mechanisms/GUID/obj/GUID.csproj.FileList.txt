@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GUID.Properties.Resources.resources
+obj\Debug\GUID.csproj.GenerateResource.Cache
+bin\Debug\GUID.exe
+bin\Debug\GUID.pdb
+obj\Debug\GUID.exe
+obj\Debug\GUID.pdb
+obj\Debug\GUID.Form1.resources

@@ -1,0 +1,17 @@
+D:\Step\3 course\systemProgramming\ExamProject\examProject\examProject\bin\Debug\net8.0-windows\examProject.exe
+D:\Step\3 course\systemProgramming\ExamProject\examProject\examProject\bin\Debug\net8.0-windows\examProject.deps.json
+D:\Step\3 course\systemProgramming\ExamProject\examProject\examProject\bin\Debug\net8.0-windows\examProject.runtimeconfig.json
+D:\Step\3 course\systemProgramming\ExamProject\examProject\examProject\bin\Debug\net8.0-windows\examProject.dll
+D:\Step\3 course\systemProgramming\ExamProject\examProject\examProject\bin\Debug\net8.0-windows\examProject.pdb
+D:\Step\3 course\systemProgramming\ExamProject\examProject\examProject\obj\Debug\net8.0-windows\examProject.Form1.resources
+D:\Step\3 course\systemProgramming\ExamProject\examProject\examProject\obj\Debug\net8.0-windows\examProject.csproj.GenerateResource.cache
+D:\Step\3 course\systemProgramming\ExamProject\examProject\examProject\obj\Debug\net8.0-windows\examProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Step\3 course\systemProgramming\ExamProject\examProject\examProject\obj\Debug\net8.0-windows\examProject.AssemblyInfoInputs.cache
+D:\Step\3 course\systemProgramming\ExamProject\examProject\examProject\obj\Debug\net8.0-windows\examProject.AssemblyInfo.cs
+D:\Step\3 course\systemProgramming\ExamProject\examProject\examProject\obj\Debug\net8.0-windows\examProject.csproj.CoreCompileInputs.cache
+D:\Step\3 course\systemProgramming\ExamProject\examProject\examProject\obj\Debug\net8.0-windows\examProject.sourcelink.json
+D:\Step\3 course\systemProgramming\ExamProject\examProject\examProject\obj\Debug\net8.0-windows\examProject.dll
+D:\Step\3 course\systemProgramming\ExamProject\examProject\examProject\obj\Debug\net8.0-windows\refint\examProject.dll
+D:\Step\3 course\systemProgramming\ExamProject\examProject\examProject\obj\Debug\net8.0-windows\examProject.pdb
+D:\Step\3 course\systemProgramming\ExamProject\examProject\examProject\obj\Debug\net8.0-windows\examProject.genruntimeconfig.cache
+D:\Step\3 course\systemProgramming\ExamProject\examProject\examProject\obj\Debug\net8.0-windows\ref\examProject.dll

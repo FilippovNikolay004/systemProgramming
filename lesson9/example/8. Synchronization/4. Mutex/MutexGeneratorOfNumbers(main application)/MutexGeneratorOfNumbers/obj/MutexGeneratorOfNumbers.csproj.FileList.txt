@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MutexGeneratorOfNumbers.Form1.resources
+obj\Debug\MutexGeneratorOfNumbers.Properties.Resources.resources
+obj\Debug\MutexGeneratorOfNumbers.csproj.GenerateResource.Cache
+bin\Debug\MutexGeneratorOfNumbers.exe
+bin\Debug\MutexGeneratorOfNumbers.pdb
+obj\Debug\MutexGeneratorOfNumbers.exe
+obj\Debug\MutexGeneratorOfNumbers.pdb

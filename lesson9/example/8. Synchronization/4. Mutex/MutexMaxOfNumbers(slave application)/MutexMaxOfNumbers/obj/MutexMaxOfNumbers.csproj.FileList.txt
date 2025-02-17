@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MutexMaxOfNumbers.Form1.resources
+obj\Debug\MutexMaxOfNumbers.Properties.Resources.resources
+obj\Debug\MutexMaxOfNumbers.csproj.GenerateResource.Cache
+bin\Debug\MutexMaxOfNumbers.exe
+bin\Debug\MutexMaxOfNumbers.pdb
+obj\Debug\MutexMaxOfNumbers.exe
+obj\Debug\MutexMaxOfNumbers.pdb
