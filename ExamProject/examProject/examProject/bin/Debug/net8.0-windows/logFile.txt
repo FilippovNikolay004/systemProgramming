@@ -1,0 +1,7 @@
+Ошибка в файле D:\Step\3 course\systemProgramming\ExamProject\examProject\documents\text2.txt: Operations that change non-concurrent collections must have exclusive access. A concurrent update was performed on this collection and corrupted its state. The collection's state is no longer correct.
+Всего заменено: 317
+Файл: text1.txt, Заменено слов: 5
+Файл: text5.txt, Заменено слов: 48
+Файл: text6.txt, Заменено слов: 240
+Файл: text4.txt, Заменено слов: 12
+Файл: text3.txt, Заменено слов: 12

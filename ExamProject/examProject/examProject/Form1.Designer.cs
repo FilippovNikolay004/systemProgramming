@@ -82,7 +82,6 @@
             textBoxForbiddenWords.Name = "textBoxForbiddenWords";
             textBoxForbiddenWords.Size = new Size(217, 23);
             textBoxForbiddenWords.TabIndex = 3;
-            textBoxForbiddenWords.TextChanged += textBoxForbiddenWords_TextChanged;
             // 
             // progressBar1
             // 
@@ -118,7 +117,7 @@
             groupBox2.Size = new Size(217, 53);
             groupBox2.TabIndex = 7;
             groupBox2.TabStop = false;
-            groupBox2.Text = "Название файла";
+            groupBox2.Text = "Название загруженного файла";
             // 
             // textBoxNameFile
             // 
