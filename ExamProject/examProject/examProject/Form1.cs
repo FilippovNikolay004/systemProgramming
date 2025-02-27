@@ -1,10 +1,10 @@
-using System.Windows.Forms;
+п»їusing System.Windows.Forms;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace examProject
 {
     public partial class Form1 :Form {
-        // Заменить
+        // Р—Р°РјРµРЅРёС‚СЊ
         private const string SourceFolderPath = @"D:\Step\3 course\systemProgramming\ExamProject\examProject\documents"; 
         private const string DestinationFolderPath = @"D:\Step\3 course\systemProgramming\ExamProject\examProject\filesWithProhibitedWords";
         private CancellationTokenSource cts;
@@ -24,7 +24,7 @@ namespace examProject
 
             List<string> forbiddenWords = GetForbiddenWords();
             if (forbiddenWords.Count == 0) {
-                MessageBox.Show("Введите запрещённые слова или загрузите файл.", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("Р’РІРµРґРёС‚Рµ Р·Р°РїСЂРµС‰С‘РЅРЅС‹Рµ СЃР»РѕРІР° РёР»Рё Р·Р°РіСЂСѓР·РёС‚Рµ С„Р°Р№Р».", "РћС€РёР±РєР°", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
 
@@ -59,22 +59,22 @@ namespace examProject
                         }
                     }
                     catch (Exception ex) {
-                        Invoke(new Action(() => listBoxResults.Items.Add($"Ошибка в файле {file}: {ex.Message}")));
+                        Invoke(new Action(() => listBoxResults.Items.Add($"РћС€РёР±РєР° РІ С„Р°Р№Р»Рµ {file}: {ex.Message}")));
                     }
 
                     Invoke(new Action(() => progressBar1.Value++));
 
-                    // Задержка для возможности отмены
+                    // Р—Р°РґРµСЂР¶РєР° РґР»СЏ РІРѕР·РјРѕР¶РЅРѕСЃС‚Рё РѕС‚РјРµРЅС‹
                     await Task.Delay(1000); 
                 }
             }, cts.Token);
 
-            listBoxResults.Items.Add($"Всего заменено: {totalReplacements}");
+            listBoxResults.Items.Add($"Р’СЃРµРіРѕ Р·Р°РјРµРЅРµРЅРѕ: {totalReplacements}");
             foreach (var entry in fileReport) {
-                listBoxResults.Items.Add($"Файл: {Path.GetFileName(entry.Key)}, Заменено слов: {entry.Value}");
+                listBoxResults.Items.Add($"Р¤Р°Р№Р»: {Path.GetFileName(entry.Key)}, Р—Р°РјРµРЅРµРЅРѕ СЃР»РѕРІ: {entry.Value}");
             }
 
-            // Сохранение log файла
+            // РЎРѕС…СЂР°РЅРµРЅРёРµ log С„Р°Р№Р»Р°
             if (textBoxChosenPath.Text.Length != 0) {
                 string logFile = Path.Combine(textBoxChosenPath.Text, Path.GetFileName("logFile.txt"));
                 string results = "";
@@ -93,7 +93,7 @@ namespace examProject
         }
 
 
-        // Обработчик для кнопки "Путь" (выбор директории назначения)
+        // РћР±СЂР°Р±РѕС‚С‡РёРє РґР»СЏ РєРЅРѕРїРєРё "РџСѓС‚СЊ" (РІС‹Р±РѕСЂ РґРёСЂРµРєС‚РѕСЂРёРё РЅР°Р·РЅР°С‡РµРЅРёСЏ)
         private void pathSelection_Click(object sender, EventArgs e) {
             using (FolderBrowserDialog folderDialog = new FolderBrowserDialog()) {
                 if (folderDialog.ShowDialog() == DialogResult.OK) {
@@ -102,7 +102,7 @@ namespace examProject
             }
         }
 
-        // Обработчик для кнопки "Файл" (выбор файла)
+        // РћР±СЂР°Р±РѕС‚С‡РёРє РґР»СЏ РєРЅРѕРїРєРё "Р¤Р°Р№Р»" (РІС‹Р±РѕСЂ С„Р°Р№Р»Р°)
         private void fileSelection_Click(object sender, EventArgs e) {
             using (OpenFileDialog openFileDialog = new OpenFileDialog()) {
                 if (openFileDialog.ShowDialog() == DialogResult.OK) {
